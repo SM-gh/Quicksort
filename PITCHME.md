@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Quicksort]
 
-@snap[center headline text-white span-70]
+@snap[west headline text-white span-70]
 GitPitch<br>*Quicksort*
 @snapend
 
