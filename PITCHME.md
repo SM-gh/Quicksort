@@ -1,5 +1,5 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+---?color=linear-gradient(to right, #009fff, #ec2f4b)
+@title[Quicksort]
 
 @snap[west headline text-white span-70]
 GitPitch<br>*The Template*
