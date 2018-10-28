@@ -2,7 +2,7 @@
 @title[Quicksort]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*Quicksort*
+Quicksort<br>**GitPitch**
 @snapend
 
 @snap[south-west byline  text-white]
