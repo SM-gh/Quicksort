@@ -2,7 +2,7 @@
 @title[Split-Screen Templates]
 
 @snap[center span-60]
-@quote[## @color[White](Ordenamiento de datos)]
+@quote[Ordenamiento de datos]
 @snapend
 
 @fa[arrow-down text-white]
