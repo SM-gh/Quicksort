@@ -1,4 +1,4 @@
----?image=template/img/bg/yellow.jpg&position=right&size=50% 100%
+---?image=template/img/bg/BradyFun.jpg&position=right&size=50% 100%
 
 @title[Algoritmo]
 
