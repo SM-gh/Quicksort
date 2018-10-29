@@ -14,7 +14,7 @@ Datos<br>Generales
 <p align="left">
   <img width="150" height="200" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
-- lkl
+<br>
 @ulend
 @snapend
 
