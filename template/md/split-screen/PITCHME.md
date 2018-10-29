@@ -16,15 +16,15 @@ Datos<br>Generales
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
----?image=template/img/bg/Snapchat.jpg&position=right&size=60% 100%
+---?image=template/img/bg/Snapchat.jpg&position=right&size=80% 100%
 
 @title[Algoritmo]
 
-@snap[west split-screen-heading text-green span-50]
+@snap[west split-screen-heading text-yellow span-50]
 Algoritmo
 @snapend
 
-@snap[east text-yellow span-50]
+@snap[east text-white span-50]
 @ol[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
