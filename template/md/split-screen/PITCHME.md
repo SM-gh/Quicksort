@@ -1,4 +1,4 @@
----?image=template/img/bg/Telegram.jpg&position=right&size=65% 100%
+---?image=template/img/bg/Telegram.jpg&position=right&size=60% 100%
 @title[Datos Generales]
 
 @snap[west split-screen-heading text-blue span-50]
