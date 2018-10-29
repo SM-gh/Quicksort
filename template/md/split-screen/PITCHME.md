@@ -7,10 +7,10 @@ Datos<br>Generales
 
 @snap[west text-white span-65]
 @ul[split-screen-list](false)
-@fa[arrow-right text-black]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore<br>
-@fa[arrow-right text-black]Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>
-@fa[arrow-right text-black]Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore<br>
-@fa[arrow-right text-black]Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+@fa[arrow-right text-white] ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore<br>
+@fa[arrow-right text-white] ### Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>
+@fa[arrow-right text-white] ### Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore<br>
+@fa[arrow-right text-white] ### Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
 @ulend
 @snapend
 
