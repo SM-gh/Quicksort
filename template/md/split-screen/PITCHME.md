@@ -1,13 +1,17 @@
 ---?image=template/img/bg/Lunada.jpg&position=left&size=61% 100%
 @title[Heading + List Body]
 
+hola
+# hola
+## hola
+
 @snap[east split-screen-heading text-blue span-50]
 Datos<br>Generales
 @snapend
 
 @snap[west text-white span-65]
 @ul[split-screen-list](false)
- ##### (@fa[arrow-right text-white] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br> 
+##### @fa[arrow-right text-white] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br> 
 ##### @fa[arrow-right text-white] Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>
 ##### @fa[arrow-right text-white] Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore<br>
 ##### @fa[arrow-right text-white] Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
