@@ -5,7 +5,7 @@
 Datos<br>Generales
 @snapend
 
-<p style="text-align: justify;">
+<p style="text-align: right justify;">
 @snap[east text-white span-65]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
