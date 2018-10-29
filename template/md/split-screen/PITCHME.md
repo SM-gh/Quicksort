@@ -9,8 +9,11 @@
 @snap[west text-white span-90]
 @ul[split-screen-list](false)
 @fa[arrow-right text-white]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+
 @fa[arrow-right text-white]Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
 @fa[arrow-right text-white]Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+
 @fa[arrow-right text-white]Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
 @ulend
 @snapend
