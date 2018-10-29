@@ -7,20 +7,10 @@ Datos<br>Generales
 
 @snap[west text-white span-65]
 @ul[split-screen-list](false)
-
-@fa[arrow-right text-white] 
-
 ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br>
-
-@fa[arrow-right text-white] 
-
 ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br>
-
-@fa[arrow-right text-white] 
 ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br> 
-@fa[arrow-right text-white] 
 ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br> 
-
 @ulend
 @snapend
 
