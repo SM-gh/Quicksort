@@ -6,7 +6,7 @@
 
 +++?color=linear-gradient(to bottom, #ef32d9, #89fffd)
 
-@fa[arrow-right text-white]
+@fa[arrow-north-right text-white]
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
