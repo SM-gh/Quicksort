@@ -14,7 +14,7 @@ GitPitch
 +++?image=template/img/bg/yellow.jpg&position=right&size=50% 100%
 @title[Algoritmo]
 
-@snap[west split-screen-heading text-yellow span-20]
+@snap[west split-screen-heading text-yellow span-2]
 Algoritmo
 @snapend
 
