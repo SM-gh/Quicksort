@@ -1,4 +1,4 @@
----?image=template/img/bg/Cool Sky.jpg&position=left&size=70% 100%
+---?image=template/img/bg/Cool_Sky.jpg&position=left&size=70% 100%
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-pink span-50]
