@@ -16,7 +16,7 @@ Datos<br>Generales
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
----?image=template/img/bg/Snapchat.jpg&position=right&size=80% 100%
+---?image=template/img/bg/Snapchat.jpg&position=right&size=61% 100%
 
 @title[Algoritmo]
 
