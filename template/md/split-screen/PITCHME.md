@@ -1,6 +1,6 @@
 ---?color=linear-gradient(to top, #9d50bb, #6e48aa, #191654)
 
-+++?color=linear-gradient(to botton, #5433ff, #20bdff, #a5fecb)
++++?color=linear-gradient(to bottom, #5433ff, #20bdff, #a5fecb)
 
 ---?image=template/img/bg/yellow.jpg&position=right&size=50% 100%
 
