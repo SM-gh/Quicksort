@@ -4,9 +4,9 @@
 
 ## @color[white](Datos Generales)
 
-+++?color=linear-gradient(to top, #fdfc47, #24fe41)
-
 +++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
+
++++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
 ---?image=template/img/bg/yellow.jpg&position=right&size=50% 100%
 
