@@ -13,7 +13,7 @@ GitPitch
 @title[Algoritmo]
 
 @snap[west heading text-orange span-50]
-Algoritmo
+# Algoritmo
 @snapend
 
 @snap[east text-white span-50]
