@@ -16,6 +16,11 @@ Algoritmo
 @snapend
 
 +++?image=template/img/digitsface.jpg&size=100%
+
+<p align="center"> 
+<img src="template/img/digitsface.jpg">
+</p>
+
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-orange span-50]
