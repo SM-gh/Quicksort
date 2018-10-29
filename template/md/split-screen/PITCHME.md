@@ -7,11 +7,11 @@ Datos<br>Generales
 
 <p style="text-align: right justify;">
 @snap[east text-white span-60]
-@ol[list blue](false)
+@ul[list blue](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
-@olend
+@ulend
 @snapend
 </p>
 
