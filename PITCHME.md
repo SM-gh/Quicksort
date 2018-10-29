@@ -1,8 +1,10 @@
 ---?color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Quicksort]
 
-@snap[west headline text-white]
-Quicksort<br>*@css[west template-note text-white](Martínez Andrade Sebastián Aldair)*
+@snap[west headline text-white span-70]
+Quicksort<br>
+<br>
+@css[template-note](Martínez Andrade Sebastián Aldair)
 @snapend
 
 @snap[south-east byline  text-white]
