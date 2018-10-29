@@ -38,6 +38,8 @@ Algoritmo
 
 ---?image=template/img/bg/Misty-Meadow.jpg&position=right&size=61% 100%
 
++++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
+
 @snap[west split-screen-heading text-green span-50]
 Ejemplo<br>Código
 @snapend
