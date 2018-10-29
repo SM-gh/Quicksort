@@ -1,4 +1,4 @@
----?image=template/img/bg/LunadaAzul.jpg&position=left&size=61% 100%
+---?image=template/img/bg/LunadaAzul.jpg&position=left&size=62% 100%
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-blue span-50]
@@ -16,11 +16,11 @@ Datos<br>Generales
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
----?image=template/img/bg/Martini.jpg&position=right&size=80% 100%
+---?image=template/img/bg/Martini.jpg&position=right&size=62% 100%
 
 @title[Algoritmo]
 
-@snap[west split-screen-heading text-orange span-50]
+@snap[west split-screen-heading text-green span-50]
 Algoritmo
 @snapend
 
