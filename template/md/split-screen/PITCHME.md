@@ -38,6 +38,6 @@ Algoritmo
 
 ---?image=template/img/bg/Misty-Meadow.jpg&position=right&size=61% 100%
 
-@snap[east split-screen-heading text-green span-50]
+@snap[west split-screen-heading text-green span-50]
 Ejemplo<br>Código
 @snapend
