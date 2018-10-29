@@ -17,13 +17,13 @@ Algoritmo
 
 +++?image=http://www.emveetech.com/upload/revolution/1.jpg
 
-@title[Heading + List Body]
+@title[Imagen Algoritmo]
 
 @snap[west split-screen-heading text-orange span-50]
 Topics to be covered today
 @snapend
 
-@snap[east text-white span-45]
+@snap[east text-black span-45]
 @ol[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
