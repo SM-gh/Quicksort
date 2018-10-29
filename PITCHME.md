@@ -2,7 +2,7 @@
 @title[Quicksort]
 
 @snap[west headline text-white span-70]
-Quicksort<br>
+Quicksort
 <br>
 @css[template-note](Martínez Andrade Sebastián Aldair)
 @snapend
