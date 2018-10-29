@@ -44,7 +44,7 @@ Ejemplo<br>Código
 
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
 
----?image=template/img/bg/CompareNow.jpg&position=left&size=61% 100%
+---?image=template/img/bg/CompareNow.jpg&position=left&size=55% 100%
 
 @snap[east split-screen-heading text-red span-50]
 Referencias<br>
