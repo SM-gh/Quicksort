@@ -24,7 +24,7 @@ Datos<br>Generales
 Algoritmo
 @snapend
 
-@snap[east text-withe span-50]
+@snap[east text-blue span-50]
 @ol[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
