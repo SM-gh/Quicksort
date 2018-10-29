@@ -9,6 +9,24 @@ Quicksort<br>*@css[template-note](Martínez Andrade Sebastián Aldair)*
 GitPitch
 @snapend
 
+---
+
+@snap[west split-screen-heading text-green span-50]
+Algoritmo
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+- a
+- b
+- c
+@olend
+@snapend
+
+@snap[south-west template-note text-gray]
+Split-screen heading and list body template.
+@snapend
+
 ---?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
