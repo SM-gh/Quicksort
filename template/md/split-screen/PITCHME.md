@@ -1,4 +1,4 @@
----?image=https://media.giphy.com/media/OQrx03s8VwOl7XmfiZ/giphy.gif
+---?image=https://sentisis.com/wp-content/uploads/sentisis-connector.gif
 @title[Split-Screen Templates]
 
 ## @color[white](Generalidades)
