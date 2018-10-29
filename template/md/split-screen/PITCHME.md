@@ -15,7 +15,7 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=https://www.euromoney.com/v-204f8e91e96c665731919571d0e866ef/Media/images/euromoney/stock-images/tech%20face-600.jpg
++++?image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkBVFm3Cv-34EvsuCEWfB6TDa4mg8Bsq1zPBaFG28VA079i8iLg
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-orange span-50]
