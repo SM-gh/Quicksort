@@ -36,4 +36,4 @@ Algoritmo
 
 +++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
 
----?image=template/img/bg/Limeade.jpg&position=right&size=61% 100%
+---?image=template/img/bg/MistyMeadow.jpg&position=right&size=61% 100%
