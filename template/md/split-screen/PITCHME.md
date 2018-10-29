@@ -1,11 +1,11 @@
 ---?image=template/img/bg/CoolSky.jpg&position=left&size=60% 100%
 @title[Heading + List Body]
 
-@snap[east split-screen-heading text-blue span-50]
+@snap[east split-screen-heading text-purple span-50]
 Datos<br>Generales
 @snapend
 
-@snap[west text-white span-65]
+@snap[west text-purple span-65]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -20,11 +20,11 @@ Datos<br>Generales
 
 @title[Algoritmo]
 
-@snap[west split-screen-heading text-yellow span-50]
+@snap[west split-screen-heading text-orange span-50]
 Algoritmo
 @snapend
 
-@snap[east text-white span-50]
+@snap[east text-orange span-50]
 @ol[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
