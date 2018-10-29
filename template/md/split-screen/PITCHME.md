@@ -42,5 +42,6 @@ Algoritmo
 Ejemplo<br>Código
 @snapend
 
-
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
+
+---?image=template/img/bg/CompareNow.jpg&position=left&size=61% 100%
