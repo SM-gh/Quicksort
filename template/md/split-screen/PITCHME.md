@@ -1,4 +1,4 @@
----?image=template/img/bg/CoolSky.jpg&position=left&size=100%
+---?image=template/img/bg/CoolSky.jpg
 @title[Datos Generales]
 
 @snap[west split-screen-heading text-blue span-50]
@@ -18,7 +18,7 @@ Datos<br>Generales
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 
----?image=template/img/bg/SunOnTheHorizon.jpg&position=right&size=61% 100%
+---?image=template/img/bg/SunOnTheHorizon.jpg&position=right&size=100%
 
 @title[Algoritmo]
 
@@ -38,7 +38,7 @@ Algoritmo
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
----?image=template/img/bg/Misty-Meadow.jpg&position=right&size=61% 100%
+---?image=template/img/bg/Misty-Meadow.jpg&position=right&size=100%
 
 @snap[west split-screen-heading text-green span-50]
 Ejemplo<br>Código
@@ -46,7 +46,7 @@ Ejemplo<br>Código
 
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
 
----?image=template/img/bg/Piglet.jpg&position=left&size=55% 100%
+---?image=template/img/bg/Piglet.jpg&position=left&size=100%
 
 @snap[east split-screen-heading text-pink span-50]
 Referencias<br>
