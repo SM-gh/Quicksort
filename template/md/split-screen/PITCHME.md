@@ -18,7 +18,7 @@ Algoritmo
 +++?image=template/img/white.jpg&size=100%
 
 <p align="center">
-  <img width="100" height="1000" src="http://www.emveetech.com/upload/revolution/1.jpg">
+  <img width="1000" height="1000" src="http://www.emveetech.com/upload/revolution/1.jpg">
 </p>
 
 @title[Heading + List Body]
