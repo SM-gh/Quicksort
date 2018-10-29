@@ -1,12 +1,12 @@
 ---?color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Quicksort]
 
-@snap[north-west headline text-white span-20]
-Quicksort<br>*GitPitch*
+@snap[north-west headline text-white span-60]
+Quicksort
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+GitPitch
 @snapend
 
 ---
