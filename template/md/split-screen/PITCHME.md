@@ -2,9 +2,7 @@
 
 @title[Datos Generales]
 
-@snap[center heading text-white span-50]
-Datos Generales
-@snapend
+## @color[white](Datos Generales)
 
 +++?color=linear-gradient(to bottom, #5433ff, #20bdff, #a5fecb)
 
