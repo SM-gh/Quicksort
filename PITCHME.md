@@ -2,11 +2,11 @@
 @title[Quicksort]
 
 @snap[north-west headline text-white span-60]
-Quicksort @css[template-note](GitPitch)
+Quicksort @css[template-note](   Martínez Andrade Sebastián Aldair)
 @snapend
 
 @snap[south-east byline  text-white]
-Martínez Andrade Sebastián Aldair
+GitPitch
 @snapend
 
 ---
