@@ -34,7 +34,7 @@ Algoritmo
 @olend
 @snapend
 
-+++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
++++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
 ---?image=template/img/bg/Misty-Meadow.jpg&position=right&size=61% 100%
 
@@ -43,4 +43,4 @@ Ejemplo<br>Código
 @snapend
 
 
-+++?color=linear-gradient(to bottom, #b3ffab, #12fff7)
++++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
