@@ -1,10 +1,11 @@
----?image=template/img/bg/blue.jpg&position=right&size=60% 100%
-@title[Datos Generales]
++++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
+@title[Heading + List Body]
 
-@snap[west split-screen-heading text-blue span-50]
-Datos<br>Generales 
+@snap[east split-screen-heading text-pink span-50]
+Top<br>Tips!
+@snapend
 
-@snap[east text-white span-65]
+@snap[west text-white span-65]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
