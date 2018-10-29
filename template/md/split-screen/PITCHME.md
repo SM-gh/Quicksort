@@ -1,4 +1,4 @@
----?image=template/img/bg/Lunada.jpg&position=left&size=61% 100%
+---?image=template/img/bg/LunadaAzul.jpg&position=left&size=61% 100%
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-blue span-50]
