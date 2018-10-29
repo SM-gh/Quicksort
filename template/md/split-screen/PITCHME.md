@@ -15,7 +15,7 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=template/img/digitsface.jpg&size=95%
++++?image=template/img/digitsface.jpg&size=100%
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-orange span-50]
