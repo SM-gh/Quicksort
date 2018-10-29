@@ -2,7 +2,11 @@
 @title[Quicksort]
 
 @snap[north-west headline text-white span-60]
-Quicksort<br> Martínez Andrade Sebastián Aldair
+Quicksort
+@snapend
+
+@snap[south docslink span-20]
+Martínez Andrade Sebastián Aldair
 @snapend
 
 @snap[south-west byline  text-white]
