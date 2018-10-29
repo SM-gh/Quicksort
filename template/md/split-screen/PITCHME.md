@@ -43,4 +43,4 @@ Ejemplo<br>Código
 @snapend
 
 
-+++?color=linear-gradient(to bottom, #aaffa9, #11ffbd))
++++?color=linear-gradient(to bottom, #b3ffab, #12fff7)
