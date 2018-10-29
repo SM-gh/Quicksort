@@ -5,7 +5,7 @@
 Quicksort
 @snapend
 
-@snap[south docslink span-20]
+@snap[south line span-30]
 Martínez Andrade Sebastián Aldair
 @snapend
 
