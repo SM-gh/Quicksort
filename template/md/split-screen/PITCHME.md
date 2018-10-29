@@ -4,15 +4,14 @@
 @snap[west split-screen-heading text-blue span-50]
 Datos<br>Generales 
 
-<p style="text-align: justify;">
-@snap[east text-white span-60]
+@css[contact-name](@snap[east text-white span-60]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
 @ulend
-@snapend</p>
+@snapend)
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
