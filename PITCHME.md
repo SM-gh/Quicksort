@@ -1,11 +1,11 @@
 ---?color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Quicksort]
 
-@snap[north-west headline text-white span-200]
-Quicksort
+@snap[north-west headline text-white span-60]
+Quicksort @css[template-note](GitPitch)
 @snapend
 
-@snap[south-east byline  text-white span-80]
+@snap[south-east byline  text-white]
 Martínez Andrade Sebastián Aldair
 @snapend
 
