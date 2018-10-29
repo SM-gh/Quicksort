@@ -14,10 +14,9 @@ Datos<br>Generales
 <p align="center">
   <img width="150" height="200" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
+- 
 @ulend
 @snapend
-
-+++
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 
