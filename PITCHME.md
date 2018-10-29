@@ -19,7 +19,7 @@ Algoritmo
 @snapend
 
 @snap[east text-white span-50]
-@ol[split-screen-list yellow](false)
+@ol[split-screen-list](true)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
