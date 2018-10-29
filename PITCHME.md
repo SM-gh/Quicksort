@@ -5,7 +5,7 @@
 Quicksort
 @snapend
 
-@css[template-note](Martínez Andrade Sebastián Aldair)
+@css[south-west template-note](Martínez Andrade Sebastián Aldair)
 
 @snap[south-east byline  text-white]
 GitPitch
