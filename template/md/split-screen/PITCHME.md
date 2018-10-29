@@ -4,7 +4,7 @@
 @snap[west split-screen-heading text-blue span-50]
 Datos<br>Generales 
 
-@snap[east text-white span-65]
+@snap[west text-white span-65]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
