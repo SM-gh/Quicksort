@@ -15,7 +15,7 @@ Algoritmo
 @olend
 @snapend
 
-+++?https://upload.wikimedia.org/wikipedia/commons/f/fe/Quicksort.gif&position=left&size=70% 100%
++++?image=https://upload.wikimedia.org/wikipedia/commons/f/fe/Quicksort.gif
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-pink span-50]
