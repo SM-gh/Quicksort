@@ -1,5 +1,11 @@
 ---?color=linear-gradient(to top, #43c6ac, #191654)
 
+@title[Datos Generales]
+
+@snap[center heading text-white span-50]
+Datos Generales
+@snapend
+
 +++?color=linear-gradient(to bottom, #5433ff, #20bdff, #a5fecb)
 
 +++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
