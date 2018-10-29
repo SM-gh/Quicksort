@@ -16,6 +16,6 @@ Algoritmo
 @olend
 @snapend
 
-+++?color=linear-gradient(to down, #ffff1c, #00c3ff)
++++?color=linear-gradient(to top, #00c3ff, #ffff1c)
 
 @title[Imagen Algoritmo]
