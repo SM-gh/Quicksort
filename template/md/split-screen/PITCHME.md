@@ -1,3 +1,5 @@
+---?image=template/img/pencils.jpg
+
 +++?image=template/img/bg/purple.jpg&position=right&size=50% 100%
 @title[Algoritmo]
 
