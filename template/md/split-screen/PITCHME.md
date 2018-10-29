@@ -39,7 +39,7 @@ Algoritmo
 
 ---?image=template/img/bg/Misty-Meadow.jpg
 
-@snap[east split-screen-heading text-green span-50]
+@snap[west split-screen-heading text-green span-50]
 Ejemplo<br>Código
 @snapend
 
@@ -47,6 +47,6 @@ Ejemplo<br>Código
 
 ---?image=template/img/bg/Piglet.jpg&position
 
-@snap[west split-screen-heading text-pink span-50]
+@snap[east split-screen-heading text-pink span-50]
 Referencias<br>
 @snapend
