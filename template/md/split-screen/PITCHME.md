@@ -1,8 +1,20 @@
----?color=linear-gradient(to bottom, #5433ff, #20bdff, #a5fecb)
+*/---?color=linear-gradient(to bottom, #5433ff, #20bdff, #a5fecb) @title[Datos Generales] ## @color[white](Datos Generales)/*
 
++++?image=template/img/bg/Telegram.jpg&position=left&size=70% 100%
 @title[Datos Generales]
 
-## @color[white](Datos Generales)
+@snap[east split-screen-heading text-white span-30]
+Datos<br>Generales
+@snapend
+
+@snap[west text-white span-65]
+@ul[split-screen-list](false)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+@ulend
+@snapend
 
 +++?color=linear-gradient(to bottom, #ef32d9, #89fffd)
 
