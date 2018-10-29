@@ -11,11 +11,11 @@ GitPitch
 
 ---
 
-+++?image=template/img/bg/red.jpg&position=right&size=50% 100%
++++?image=template/img/bg/purple.jpg&position=right&size=50% 100%
 @title[Algoritmo]
 
 @snap[west split-screen-heading text-purple span-50]
-Algprtimo
+Algoritmo
 @snapend
 
 @snap[east text-white span-45]
