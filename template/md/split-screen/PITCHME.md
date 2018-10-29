@@ -18,7 +18,7 @@ Algoritmo
 +++?image=template/img/white.jpg&size=100%
 
 <p align="center">
-  <img width="1000" height="1000" src=template/img/digitsface.jpg">
+  <img width="100" height="100" src="template/img/digitsface.jpg">
 </p>
 
 @title[Heading + List Body]
