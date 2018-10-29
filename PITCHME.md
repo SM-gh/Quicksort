@@ -1,4 +1,4 @@
----?color=linear-gradient(to bottom, #0099f7, #f11712
+---?color=linear-gradient(to top, #000000, #434343)
 
 @title[Quicksort]
 
