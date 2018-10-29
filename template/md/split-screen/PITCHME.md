@@ -5,6 +5,8 @@
 Datos<br>Generales
 @snapend
 
+##### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br>
+
 @snap[west text-white span-65]
 @ul[split-screen-list](false)
 ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut) labore<br>
