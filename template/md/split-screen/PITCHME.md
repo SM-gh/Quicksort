@@ -1,5 +1,5 @@
 ---?image=template/img/bg/CoolSky.jpg&position=left&size=61% 100%
-@title[Heading + List Body]
+@title[Datos Generales]
 
 @snap[east split-screen-heading text-blue span-50]
 Datos<br>Generales
@@ -36,4 +36,4 @@ Algoritmo
 
 +++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
 
-@title[Imagen Algoritmo]
+---?image=template/img/bg/MistyMeadow.jpg&position=right&size=61% 100%
