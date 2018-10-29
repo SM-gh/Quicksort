@@ -11,20 +11,19 @@ GitPitch
 
 ---
 
-@snap[west split-screen-heading text-green span-50]
-Algoritmo
++++?image=template/img/bg/red.jpg&position=right&size=50% 100%
+@title[Algoritmo]
+
+@snap[west split-screen-heading text-purple span-50]
+Algprtimo
 @snapend
 
 @snap[east text-white span-45]
 @ol[split-screen-list](false)
-- a
-- b
-- c
+- Lorem ipsum dolor sit amet, consectetur elit
+- Ut enim ad minim veniam, quis exercitation
+- Duis aute irure dolor in reprehenderit in voluptate
 @olend
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
 @snapend
 
 ---?include=template/md/split-screen/PITCHME.md
