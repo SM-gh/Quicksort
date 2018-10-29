@@ -1,4 +1,4 @@
----?image=template/img/bg/CoolSky.jpg
+---?image=template/img/bg/CoolSky.jpg&position=right&size=100%
 @title[Datos Generales]
 
 @snap[west split-screen-heading text-blue span-50]
@@ -18,15 +18,15 @@ Datos<br>Generales
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 
----?image=template/img/bg/SunOnTheHorizon.jpg&position=right&size=100%
+---?image=template/img/bg/SunOnTheHorizon.jpg
 
 @title[Algoritmo]
 
-@snap[west split-screen-heading text-orange span-50]
+@snap[east split-screen-heading text-orange span-50]
 Algoritmo
 @snapend
 
-@snap[east text-white span-50]
+@snap[west text-white span-50]
 @ol[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
@@ -38,9 +38,9 @@ Algoritmo
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
----?image=template/img/bg/Misty-Meadow.jpg&position=right&size=100%
+---?image=template/img/bg/Misty-Meadow.jpg
 
-@snap[west split-screen-heading text-green span-50]
+@snap[east split-screen-heading text-green span-50]
 Ejemplo<br>Código
 @snapend
 
