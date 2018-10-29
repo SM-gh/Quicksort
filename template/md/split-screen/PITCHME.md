@@ -17,6 +17,8 @@ Datos<br>Generales
 @ulend
 @snapend
 
++++
+
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 
 ---?image=template/img/bg/SunOnTheHorizon.jpg&position=right&size=61% 100%
