@@ -1,7 +1,7 @@
 ---?image=https://media.giphy.com/media/OQrx03s8VwOl7XmfiZ/giphy.gif
 @title[Split-Screen Templates]
 
-## @color[black](Split-Screen<br> Slide Templates)
+## @color[White](Ordenamiento de datos)
 
 @fa[arrow-down text-black]
 
