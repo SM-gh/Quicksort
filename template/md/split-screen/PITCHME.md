@@ -10,7 +10,7 @@ Datos<br>Generales
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id<p align="left">
+- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id <p align="left">
   <img width="150" height="200" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
 <br>
