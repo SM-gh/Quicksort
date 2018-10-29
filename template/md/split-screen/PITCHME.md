@@ -4,7 +4,7 @@
 
 ## @color[white](Datos Generales)
 
-+++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
++++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
 +++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
 
