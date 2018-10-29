@@ -4,7 +4,7 @@
 
 ## @color[white](Datos Generales)
 
-+++?color=linear-gradient(to bottom, #0cebeb, #20e3b2, #29ffc6)
++++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
 +++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
 
@@ -26,6 +26,6 @@ Algoritmo
 @olend
 @snapend
 
-+++?color=linear-gradient(to top, #00c3ff, #ffff1c)
++++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
 
 @title[Imagen Algoritmo]
