@@ -11,8 +11,8 @@ GitPitch
 
 ---
 
-+++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
-@title[Heading + List Body]
++++?image=template/img/bg/orange.jpg&position=left&size=50% 100%
+@title[Algoritmo]
 
 @snap[west split-screen-heading text-orange span-50]
 Topics to be covered today
@@ -24,16 +24,4 @@ Topics to be covered today
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
 @olend
-@snapend
-
-
----
-@title[The Template Docs]
-
-@snap[west headline span-100]
-GitPitch<br>*The Template @css[text-orange](End) ;)*
-@snapend
-
-@snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
 @snapend
