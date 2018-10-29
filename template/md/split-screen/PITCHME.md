@@ -37,7 +37,7 @@ Algoritmo
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
----?image=template/img/bg/MistyMeadow.jpg
+---?image=template/img/bg/MistyMeadow.jpg&position=right&size=800%
 
 @snap[west split-screen-heading text-green span-50]
 Ejemplo<br>Código
