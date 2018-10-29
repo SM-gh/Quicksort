@@ -8,6 +8,7 @@
 
 @snap[west text-white span-150]
 @ul[split-screen-list](false)
+<p style="text-align: justify;">Párrafo con un texto</p>
 @fa[arrow-right text-white]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore<br>
 <br>@fa[arrow-right text-white]Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>
 <br>@fa[arrow-right text-white]Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore<br>
