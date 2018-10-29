@@ -5,6 +5,7 @@
 Datos<br>Generales
 @snapend
 
+<p style="text-align: right justify;">
 @snap[east text-white span-45]
 @ol[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
@@ -12,8 +13,6 @@ Datos<br>Generales
 - Duis aute irure dolor in reprehenderit in voluptate
 @olend
 @snapend
-
-<p style="text-align: right justify;"> TeXtO
 </p>
 
 +++?color=linear-gradient(to bottom, #ef32d9, #89fffd)
