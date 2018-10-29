@@ -1,4 +1,4 @@
----?image=template/img/pencils.jpg
+---?image=https://media.giphy.com/media/OQrx03s8VwOl7XmfiZ/giphy.gif
 @title[Split-Screen Templates]
 
 ## @color[black](Split-Screen<br> Slide Templates)
