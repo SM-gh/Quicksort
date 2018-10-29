@@ -2,10 +2,11 @@
 @title[Datos Generales]
 
 @snap[west split-screen-heading text-blue span-50]
-Datos<br>Generales
-@snapend
+Datos<br>Generales 
 
-<p style="text-align: justify;">@snap[east text-white span-60]
+<p style="text-align: justify;">
+@snap[east]
+@snap[east text-white span-60]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
