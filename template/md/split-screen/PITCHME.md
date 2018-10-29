@@ -1,4 +1,4 @@
----?color=linear-gradient(to left, #004ff9, #fff94c)
+---?color=linear-gradient(to top, #34e89e, #0f3443)
 
 +++?color=linear-gradient(to top, #40e0d0, #ff8c00, #ff0080)
 
