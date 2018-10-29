@@ -1,18 +1,12 @@
 ---?color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Quicksort]
 
-@snap[north-west headline text-white span-60]
+@snap[north-west headline text-white span-200]
 Quicksort
 @snapend
 
-(@fa[calendar] January, 2019.)
-
-@snap[south byline text-white span-30]
+@snap[south-east byline  text-white]
 Martínez Andrade Sebastián Aldair
-@snapend
-
-@snap[south-west byline  text-white]
-GitPitch
 @snapend
 
 ---
