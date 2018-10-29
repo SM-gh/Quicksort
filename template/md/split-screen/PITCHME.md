@@ -1,9 +1,7 @@
 ---?image=https://media.giphy.com/media/OQrx03s8VwOl7XmfiZ/giphy.gif
 @title[Split-Screen Templates]
 
-@snap[center span-60]
-@quote[Ordenamiento de datos]
-@snapend
+## @color[white](Ordenamiento de datos)
 
 @fa[arrow-down text-white]
 
