@@ -11,10 +11,10 @@ GitPitch
 
 ---
 
-+++?image=template/img/bg/purple.jpg&position=right&size=50% 100%
++++?image=template/img/bg/yellow.jpg&position=right&size=30% 100%
 @title[Algoritmo]
 
-@snap[west split-screen-heading text-purple span-50]
+@snap[west split-screen-heading text-yellow span-50]
 Algoritmo
 @snapend
 
@@ -25,8 +25,6 @@ Algoritmo
 - Duis aute irure dolor in reprehenderit in voluptate
 @olend
 @snapend
-
----?include=template/md/split-screen/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
 
