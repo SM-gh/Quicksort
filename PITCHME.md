@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #2C7744, #0f9b0f, #FFFFFF, #e52d27)
+---?color=linear-gradient(to right, #2C7744, #0f9b0f, #FFFFFF, #e52d27, #b31217)
 @title[Quicksort]
 
 @snap[west headline text-white span-90]
