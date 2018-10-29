@@ -1,22 +1,20 @@
 ---?image=template/img/bg/Telegram.jpg&position=right&size=70% 100%
 @title[Datos Generales]
 
-@snap[west split-screen-heading text-blue span-30]
+@snap[west split-screen-heading text-blue span-50]
 Datos<br>Generales
 @snapend
 
-@snap[west text-white span-100]
-@ul[split-screen-list](false)
-
-<p style="text-align: justify;">
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore<br>
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore<br>
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-</p>
-
-@ulend
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+- Lorem ipsum dolor sit amet, consectetur elit
+- Ut enim ad minim veniam, quis exercitation
+- Duis aute irure dolor in reprehenderit in voluptate
+@olend
 @snapend
+
+<p style="text-align: justify;"> TeXtO
+</p>
 
 +++?color=linear-gradient(to bottom, #ef32d9, #89fffd)
 
