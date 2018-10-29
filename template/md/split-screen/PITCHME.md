@@ -15,7 +15,7 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkBVFm3Cv-34EvsuCEWfB6TDa4mg8Bsq1zPBaFG28VA079i8iLg
++++?image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkBVFm3Cv-34EvsuCEWfB6TDa4mg8Bsq1zPBaFG28VA079i8iLg.gif
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-orange span-50]
