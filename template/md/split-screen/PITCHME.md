@@ -6,7 +6,7 @@
 
 +++?color=linear-gradient(to bottom, #ef32d9, #89fffd)
 
-@snap[west text-white span-120]
+@snap[west text-white span-150]
 @ul[split-screen-list](false)
 @fa[arrow-right text-white]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore<br>
 <br>@fa[arrow-right text-white]Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo<br>
