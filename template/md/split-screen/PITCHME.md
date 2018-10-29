@@ -4,6 +4,7 @@
 @snap[west split-screen-heading text-blue span-50]
 Datos<br>Generales 
 
+@snap[east]
 @css[contact-name](@snap[east text-white span-60]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
@@ -12,6 +13,7 @@ Datos<br>Generales
 - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
 @ulend
 @snapend)
+@snapend
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
