@@ -15,7 +15,7 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif
++++?image=https://www.euromoney.com/v-204f8e91e96c665731919571d0e866ef/Media/images/euromoney/stock-images/tech%20face-600.jpg
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-orange span-50]
