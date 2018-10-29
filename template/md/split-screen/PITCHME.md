@@ -1,4 +1,4 @@
----?color=linear-gradient(to left, #ffff1c, #00c3ff)&position=right&size=50% 100%
+---?image=template/img/bg/yellow.jpg&position=right&size=50% 100%
 @title[Algoritmo]
 
 @snap[west split-screen-heading text-orange span-50]
