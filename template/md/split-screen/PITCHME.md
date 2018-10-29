@@ -1,4 +1,4 @@
----?image=template/img/bg/black.jpg&position=right&size=100%
+---?color=linear-gradient(to top, #c31432, #240b36)
 
 ---?image=template/img/bg/yellow.jpg&position=right&size=50% 100%
 
