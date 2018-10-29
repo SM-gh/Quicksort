@@ -1,4 +1,4 @@
----?image=template/img/bg/LunadaAzul.jpg&position=left&size=62% 100%
+---?image=template/img/bg/LunadaAzul.jpg&position=left&size=60% 100%
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-blue span-50]
@@ -16,7 +16,7 @@ Datos<br>Generales
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
----?image=template/img/bg/Martini.jpg&position=right&size=62% 100%
+---?image=template/img/bg/Martini.jpg&position=right&size=60% 100%
 
 @title[Algoritmo]
 
@@ -24,7 +24,7 @@ Datos<br>Generales
 Algoritmo
 @snapend
 
-@snap[east text-white span-50]
+@snap[east text-green span-50]
 @ol[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
