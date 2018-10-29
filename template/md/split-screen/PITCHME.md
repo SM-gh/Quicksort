@@ -1,7 +1,7 @@
----?image=template/img/bg/CoolSky.jpg&position=left&size=61% 100%
+---?image=template/img/bg/CoolSky.jpg&position=left&size=100%
 @title[Datos Generales]
 
-@snap[east split-screen-heading text-blue span-50]
+@snap[west split-screen-heading text-blue span-50]
 Datos<br>Generales
 @snapend
 
