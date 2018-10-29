@@ -15,10 +15,10 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=template/img/digitsface.jpg&size=100%
++++?image=template/img/white.jpg&size=100%
 
-<p align="center"> 
-<img src="template/img/digitsface.jpg">
+<p align="center">
+  <img width="1000" height="1000" src=template/img/digitsface.jpg">
 </p>
 
 @title[Heading + List Body]
