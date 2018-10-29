@@ -11,7 +11,7 @@ GitPitch
 
 ---
 
-+++?image=template/img/bg/yellow.jpg&position=right&size=70% 100%
++++?image=template/img/bg/yellow.jpg&position=leftt&size=50% 100%
 @title[Algoritmo]
 
 @snap[west heading text-yellow span-50]
