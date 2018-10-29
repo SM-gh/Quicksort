@@ -5,6 +5,8 @@
 Quicksort
 @snapend
 
+(@fa[calendar] January, 2019.)
+
 @snap[south byline text-white span-30]
 Martínez Andrade Sebastián Aldair
 @snapend
