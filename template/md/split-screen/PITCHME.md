@@ -13,7 +13,7 @@ Datos<br>Generales
 @olend
 @snapend
 
-<p style="text-align: justify;"> TeXtO
+<p style="text-align: right justify;"> TeXtO
 </p>
 
 +++?color=linear-gradient(to bottom, #ef32d9, #89fffd)
