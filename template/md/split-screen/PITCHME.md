@@ -7,7 +7,7 @@ Datos<br>Generales
 
 <p style="text-align: right justify;">
 @snap[east text-white span-60]
-@ol[split-screen-list](false)
+@ol[list](false)
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
