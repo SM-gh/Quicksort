@@ -19,18 +19,4 @@ Algoritmo
 
 @title[Imagen Algoritmo]
 
-@snap[west split-screen-heading text-orange span-50]
-Topics to be covered today
-@snapend
-
-@snap[east text-black span-45]
-@ol[split-screen-list](false)
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
-@olend
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
-@snapend
+---?color=linear-gradient(to right, #F26225, #F5DB2E)
