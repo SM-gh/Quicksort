@@ -15,8 +15,6 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=http://www.emveetech.com/upload/revolution/1.jpg
++++?color=linear-gradient(to right, #F26225, #F5DB2E)
 
 @title[Imagen Algoritmo]
-
----?color=linear-gradient(to right, #F26225, #F5DB2E)
