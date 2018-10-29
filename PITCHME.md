@@ -11,11 +11,11 @@ GitPitch
 
 ---
 
-+++?image=template/img/bg/yellow.jpg&position=leftt&size=50% 100%
-@title[Algoritmo]
++++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Heading + List Body]
 
-@snap[west heading text-yellow span-50]
-Algoritmo
+@snap[west split-screen-heading text-orange span-50]
+Topics to be covered today
 @snapend
 
 @snap[east text-white span-45]
@@ -26,25 +26,6 @@ Algoritmo
 @olend
 @snapend
 
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
 
 ---
 @title[The Template Docs]
