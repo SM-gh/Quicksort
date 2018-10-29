@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Quicksort]
 
-@snap[north-west headline text-white span-60]
+@snap[north-west headline text-white span-300]
 Quicksort
 @snapend
 
