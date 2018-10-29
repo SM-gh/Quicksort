@@ -1,4 +1,4 @@
----?image=template/img/bg/LunadaAzul.jpg&position=left&size=60% 100%
+---?image=template/img/bg/CoolSky.jpg&position=left&size=60% 100%
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-blue span-50]
@@ -16,7 +16,7 @@ Datos<br>Generales
 
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
----?image=template/img/bg/Martini.jpg&position=right&size=60% 100%
+---?image=template/img/bg/Snapchat.jpg&position=right&size=60% 100%
 
 @title[Algoritmo]
 
