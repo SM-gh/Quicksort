@@ -46,6 +46,6 @@ Ejemplo<br>Código
 
 ---?image=template/img/bg/CompareNow.jpg&position=left&size=55% 100%
 
-@snap[east split-screen-heading text-red span-50]
+@snap[east split-screen-heading text-pink span-50]
 Referencias<br>
 @snapend
