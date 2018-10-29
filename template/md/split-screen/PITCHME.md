@@ -6,7 +6,7 @@ Datos<br>Generales
 @snapend
 
 <p style="text-align: left justify;">
-@snap[east text-white span-90]
+@snap[east text-white span-60]
 @ul[split-screen-list](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
