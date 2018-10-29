@@ -11,6 +11,9 @@ Datos<br>Generales
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+<p align="center">
+  <img width="600" height="200" src=template/img/bg/.jpg>
+</p>
 @ulend
 @snapend
 
