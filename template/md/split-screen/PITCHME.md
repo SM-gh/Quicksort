@@ -14,7 +14,7 @@ Datos<br>Generales
 @ulend
 @snapend
 
-+++?color=linear-gradient(to top, #fdfc47, #24fe41)
++++?color=linear-gradient(to top, #fc00ff, #00dbde)
 
 ---?image=template/img/bg/SunOnTheHorizon.jpg&position=right&size=61% 100%
 
@@ -43,4 +43,4 @@ Ejemplo<br>Código
 @snapend
 
 
-+++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
++++?color=linear-gradient(to bottom, #aaffa9, #11ffbd))
