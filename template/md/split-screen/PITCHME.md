@@ -36,4 +36,4 @@ Algoritmo
 
 +++?color=linear-gradient(to bottom, #00c3ff, #ffff1c)
 
----?image=template/img/bg/MistyMeadow.jpg&position=right&size=61% 100%
+---?image=template/img/bg/Misty-Meadow.jpg&position=right&size=61% 100%
