@@ -15,11 +15,7 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=template/img/white.jpg&size=100%
-
-<p align="center">
-  <img width="1000" height="1000" src="http://www.emveetech.com/upload/revolution/1.jpg">
-</p>
++++?image=http://www.emveetech.com/upload/revolution/1.jpg
 
 @title[Heading + List Body]
 
