@@ -17,26 +17,6 @@ Algoritmo
 @olend
 @snapend
 
-+++?image=template/img/bg/purple.jpg&position=right&size=50% 100%
-@title[Algoritmo]
-
-@snap[west split-screen-heading text-green span-50]
-Algoritmo
-@snapend
-
-@snap[east text-white span-45]
-@ol[split-screen-list](false)
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
-@olend
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
-@snapend
-
-
 +++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
 @title[Heading + List Body]
 
