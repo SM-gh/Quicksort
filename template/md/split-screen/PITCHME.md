@@ -1,19 +1,8 @@
----?image=https://sentisis.com/wp-content/uploads/sentisis-connector.gif
-@title[Split-Screen Templates]
++++?image=template/img/bg/purple.jpg&position=right&size=50% 100%
+@title[Algoritmo]
 
-## @color[white](Generalidades)
-
-@fa[arrow-down text-white]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
-
-+++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
-@title[Heading + List Body]
-
-@snap[west split-screen-heading text-orange span-50]
-Topics to be covered today
+@snap[west split-screen-heading text-green span-50]
+Algoritmo
 @snapend
 
 @snap[east text-white span-45]
