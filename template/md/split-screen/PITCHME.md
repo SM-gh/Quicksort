@@ -6,6 +6,8 @@
 
 +++?color=linear-gradient(to bottom, #ef32d9, #89fffd)
 
+@fa[arrow text-white]
+
 +++?color=linear-gradient(to top, #fdfc47, #24fe41)
 
 ---?image=template/img/bg/yellow.jpg&position=right&size=50% 100%
