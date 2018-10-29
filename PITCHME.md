@@ -8,3 +8,5 @@ Quicksort<br>*@css[template-note](Martínez Andrade Sebastián Aldair)*
 @snap[south-east byline  text-white]
 GitPitch
 @snapend
+
+---?include=template/md/split-screen/PITCHME.md
