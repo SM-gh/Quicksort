@@ -5,7 +5,7 @@
 Quicksort
 @snapend
 
-@snap[south headline text-white span-30]
+@snap[south byline text-white span-30]
 Martínez Andrade Sebastián Aldair
 @snapend
 
