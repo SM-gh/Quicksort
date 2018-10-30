@@ -144,12 +144,12 @@ Referencias
 @snapend
 
 @snap[north-east]
-<br><br>Quicksort:
-<br>[Quicksort-Animaciones](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)
+<br>Quicksort:
+<br>[•Quicksort-Animaciones](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)
 <br><br>Algoritmos de ordenamiento:
-<br>[Manual de prácticas UNAM](http://odin.fi-b.unam.mx/salac/practicasEDAII/MADO-20_EDAII.pdf)
-<br>[Plataforma tutorial de<br>Progrmación](http://itslr.edu.mx/archivos2013/TPM/temas/s3u5.html)
+<br>[•Manual de prácticas UNAM](http://odin.fi-b.unam.mx/salac/practicasEDAII/MADO-20_EDAII.pdf)
+<br>[•Plataforma tutorial de<br>Progrmación](http://itslr.edu.mx/archivos2013/TPM/temas/s3u5.html)
 <br><br>Github+GitPitch:
-<br>[Generalidades GitPitch](https://gitpitch.com/docs)
-<br>[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+<br>[•Generalidades GitPitch](https://gitpitch.com/docs)
+<br>[•Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 @snapend
