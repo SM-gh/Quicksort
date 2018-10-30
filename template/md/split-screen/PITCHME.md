@@ -9,7 +9,7 @@ Datos Generales
 @title[Algoritmos de ordenamiento]
 
 @snap[north-west]
-<br>@fa[arrow-right text-white]@color[white](@size[0.8em](**Es uno de los Algoritmos de ordenación**))
+<br>@fa[arrow-right text-white]@color[white](@size[1.0em](**Es uno de los Algoritmos de ordenación**))
 @snapend
 
 @snap[north text-white span-100]
@@ -57,14 +57,14 @@ Datos Generales
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 
-@fa[arrow-right text-white]@size[0.8em](@color[white](**Creado por el britáino científico en computación<br>Charles Antony Richard Hoare**))
+@fa[arrow-right text-white]@size[1.0em](@color[white](**Creado por el britáino científico en computación<br>Charles Antony Richard Hoare**))
 
 <p align="center">
   <img width="270" height="370" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
 
 @snap[south text-white span-100]
-Sigue el pensamiento “divide y vencerás”
+@size[1.0em](Sigue el pensamiento “divide y vencerás”)
 @snapend
 
 +++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
