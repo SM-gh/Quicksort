@@ -32,8 +32,8 @@ Algoritmo
 @snapend
 
 @snap[south-west template-note text-white]
-<sup>1</sup>: La  orientación de todos los elementos y de los iguales al pivote dependen de la  implementación deseada.<br>
-<sup>2</sup>: Debe  de contener mas de un elemento.
+<sup>1</sup> La  orientación de todos los elementos y de los iguales al pivote dependen de la  implementación deseada.<br>
+<sup>2</sup> Debe  de contener mas de un elemento.
 @snapend
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
