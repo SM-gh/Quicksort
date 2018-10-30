@@ -108,7 +108,7 @@ Algoritmo
 
 @snap[north-east text-white span-100]
 @size[0.6em](<br><br><br><br><br><br>-> Orden de complejidad del algoritmo: O(n·log(n)))
-@size[0.6em](<br><br>-> Orden de complejidad del algoritmo: O(n²))
+@size[0.6em](<br><br><br>-> Orden de complejidad del algoritmo: O(n²))
 @snapend
   
 @snap[south-west template-note text-white]
