@@ -136,7 +136,7 @@ Ejemplo Código
 @snapend
 
 @snap[south template-note]
-[Enlace: Página-Código](http://csharp-facilito.blogspot.com/2013/07/metodo-de-ordenamiento-quick-sort-en-c-sharp.html)/[Otro c++](http://codigoprogramacion.com/cursos/tutoriales-c/quicksort-en-c-algoritmo-de-ordenamiento.html#.W9jNCNV_LIW)
+Enlace:[Este Código](http://csharp-facilito.blogspot.com/2013/07/metodo-de-ordenamiento-quick-sort-en-c-sharp.html)/[Otro c++](http://codigoprogramacion.com/cursos/tutoriales-c/quicksort-en-c-algoritmo-de-ordenamiento.html#.W9jNCNV_LIW)
 @snapend
 
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
