@@ -40,9 +40,10 @@ Algoritmo
 
 @snap[north-west]
 @fa[arrow-right text-white]
+@snapend
+
 @snap[north-west text-white span-20]
 EFICIENCIA
-@snapend
 @snapend
 
 ---?image=template/img/bg/Limeade.jpg
