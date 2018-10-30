@@ -55,7 +55,7 @@ Ejemplo Código
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
 @title[Código]
 
----?color=linear-gradient(to left, #ee9ca7, #ffdde1)
+---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
 @title[Rferencias]
 
 @snap[west split-screen-heading text-pink span-50]
