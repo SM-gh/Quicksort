@@ -9,7 +9,7 @@ Datos Generales
 @title[Algoritmos de ordenamiento]
 
 @snap[north-west text-white]
-@size[0.7em](Es uno de los Algoritmos de ordenación)
+@size[0.7em](<br>Es uno de los Algoritmos de ordenación)
 @snapend
 
 @snap[north text-white span-100]
