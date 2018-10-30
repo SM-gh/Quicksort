@@ -27,7 +27,7 @@ Datos Generales
 
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 
-@snap[north-west text-white span-100]
+@snap[north-east text-white span-100]
 @size[0.6em](<br><br><br>-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @size[0.6em](<br><br><br><br>->Ejemplo: Bubble sort y Quicksort.)
 @snapend
@@ -43,7 +43,7 @@ Datos Generales
 
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 
-@snap[west text-white]
+@snap[north-west text-white]
 @size[0.6em](<br>Otras clasificaciones:)
 @size[0.6em](<br>•	Métodos _iterativos_ vs **_Métodos recursivos_**:)
 @size[0.6em](<br>•	De ordenación _natural_ vs _No natural_.)
