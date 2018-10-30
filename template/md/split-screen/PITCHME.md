@@ -43,7 +43,7 @@ Algoritmo
 @snapend
 
 @snap[west list-content-verbose span-120]
-<br><br>
+<br><br><br>
 @ul[text-white](false)
 @size[0.7em](Depende de la posición en la que termine el pivote elegido:)<br><br>
 - @size[0.8em](En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño. -> Orden de complejidad del algoritmo: O(n·log n))
