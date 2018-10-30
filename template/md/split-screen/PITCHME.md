@@ -8,6 +8,7 @@ Datos Generales
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 @title[Algoritmos de ordenamiento]
 
+@snap[west text-whit]
 @size[0.6em](Es uno de los Algoritmos de ordenación<br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 
 @size[0.6em](Tipos de ordenamiento:)
@@ -24,6 +25,7 @@ Datos Generales
 @size[0.6em](<br>•	Métodos iterativos vs Métodos recursivos:)
 @size[0.6em](<br>•	De ordenación natural vs No natural.)
 @size[0.6em](<br>•	Estables vs Inestables)
+@snapend
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 
