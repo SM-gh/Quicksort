@@ -44,15 +44,16 @@ Algoritmo
 
 @snap[west list-content-verbose span-120]
 <br><br>
-@size[0.6em](
+
 @ul[text-white](false)
+@size[0.6em](
 <br>Depende de la posición en la que termine el pivote elegido:<br>
 - En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño. 
 - El orden de complejidad del algoritmo es O(n·log n).
 - En el PEOR CASO, el pivote termina EN UN EXTREMO de la lista.
 - El orden de complejidad del algoritmo es entonces de O(n²). 
-- Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenada y principalmente depende del pivote. (si por ejemplo el algoritmo  toma como pivote siempre el primer elemento del array, y el array que le pasamos está ordenado, siempre va a generar a su izquierda un array vacío).
-@ulend)
+- Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenada y principalmente depende del pivote. (si por ejemplo el algoritmo  toma como pivote siempre el primer elemento del array, y el array que le pasamos está ordenado, siempre va a generar a su izquierda un array vacío).)
+@ulend
 @snapend
 
 ---?image=template/img/bg/Limeade.jpg
