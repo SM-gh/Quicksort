@@ -11,26 +11,26 @@ Datos Generales
 @snap[west text-white]
 @size[0.7em](Es uno de los Algoritmos de ordenación<br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 <br>
-@size[0.6em](<br>*Tipos de ordenamiento:*)
-@size[0.6em](<br>•Interno: La información cabe en la memoria principal de la computadora.)
-@size[0.6em](<br>•Externo: Es necesario ocupar una memoria secundaria)
+@size[0.6em](<br>**Tipos de ordenamiento:**)
+@size[0.6em](<br>•**_Interno_**: La información cabe en la memoria principal de la computadora.)
+@size[0.6em](<br>•_Externo_: Es necesario ocupar una memoria secundaria)
 
-@size[0.6em](<br>*Clasificación de los algoritmos de ordenamiento:*)
-@size[0.6em](<br>•	De inserción: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
+@size[0.6em](<br>**Clasificación de los algoritmos de ordenamiento:**)
+@size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 
 @snap[west text-white]
 
-@size[0.6em](<br>•	De intercambio: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.->Ejemplo: Bubble sort y Quicksort.)
+@size[0.6em](<br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.->Ejemplo: Bubble sort y Quicksort.)
 @snapend
-@size[0.6em](<br>•	De Selección: En estos se selecciona el elemento mínimo o el máximo de todo el conjunto y se coloca en posición apropiada; esto se realiza con todos los elementos restantes)
-@size[0.6em](<br>•	De numeración: Para estos se compara cada elemento con todos los demás y se determina cuántos son menores que él, así la información del conteo indicará su posición de ordenamiento.)
+@size[0.6em](<br>•	De _Selección_: En estos se selecciona el elemento mínimo o el máximo de todo el conjunto y se coloca en posición apropiada; esto se realiza con todos los elementos restantes)
+@size[0.6em](<br>•	De _numeración_: Para estos se compara cada elemento con todos los demás y se determina cuántos son menores que él, así la información del conteo indicará su posición de ordenamiento.)
 
 @size[0.6em](Otras clasificaciones:)
-@size[0.6em](<br>•	Métodos iterativos vs Métodos recursivos:)
-@size[0.6em](<br>•	De ordenación natural vs No natural.)
-@size[0.6em](<br>•	Estables vs Inestables)
+@size[0.6em](<br>•	Métodos _iterativos_ vs **_Métodos recursivos_**:)
+@size[0.6em](<br>•	De ordenación _natural_ vs _No natural_.)
+@size[0.6em](<br>•	_Estables_ vs **_Inestables_**)
 @snapend
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
