@@ -42,7 +42,7 @@ Algoritmo
 @fa[arrow-right text-white] @color[white](EFICIENCIA) 
 @snapend
 
-@snap[west text-white span-50]
+@snap[text-white span-70]
 @ul[split-screen-list](false)
 Depende de la posición en la que termine el pivote elegido:
 -En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño. 
