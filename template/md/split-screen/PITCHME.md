@@ -5,13 +5,12 @@
 Datos Generales
 @snapend
 
-+++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
++++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 @title[Algoritmos de ordenamiento]
 
 Es uno de los Algoritmos de ordenación
 
-+++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
-
++++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 Creado por el britáino científico en computación Charles Antony Richard Hoare
 
 <p align="center">
