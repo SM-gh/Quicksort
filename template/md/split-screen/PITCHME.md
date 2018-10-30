@@ -124,7 +124,7 @@ Ejemplo Código
 
 +++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
 <p align="center">
-  <img width="900" height="800" src="https://user-images.githubusercontent.com/38449287/47753695-10b2f400-dc5e-11e8-80ff-da2cdc160bf5.JPG">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/38449287/47753695-10b2f400-dc5e-11e8-80ff-da2cdc160bf5.JPG">
 </p>
 
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
