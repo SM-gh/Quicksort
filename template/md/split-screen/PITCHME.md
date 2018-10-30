@@ -43,13 +43,13 @@ Algoritmo
 @snapend
 
 @snap[west text-white]
-@size[0.7em](<br><br>Depende de la posición en la que termine el pivote elegido:)<br><br>
-•@size[0.8em]( En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño.<br>-> Orden de complejidad del algoritmo: O(n·log n))<br><br>
-•@size[0.8em]( En el PEOR CASO, el pivote termina EN UN EXTREMO de la lista.<sup>1</sup><br>-> Orden de complejidad del algoritmo: O(n²))<br><br>
+@size[0.8em](<br><br>Depende de la posición en la que termine el pivote elegido:)<br><br>
+•@size[0.7em]( En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño.<br>-> Orden de complejidad del algoritmo: O(n·log n))<br><br>
+•@size[0.7em]( En el PEOR CASO, el pivote termina EN UN EXTREMO de la lista.<sup>1</sup><br>-> Orden de complejidad del algoritmo: O(n²))<br><br>
 @snapend
 
 @snap[south-west template-note text-white]
-<sup>1</sup>Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenadas y principalmente depende del pivote.<br>
+<sup>1</sup> Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenadas y principalmente depende del pivote.<br>
 @snapend
 
 ---?image=template/img/bg/Limeade.jpg
