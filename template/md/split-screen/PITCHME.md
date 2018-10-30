@@ -42,6 +42,7 @@ Algoritmo
 @fa[arrow-right text-white] @color[white](EFICIENCIA)
 @snapend
 
+@size[0.6em](
 @snap[west list-content-verbose span-120]
 <br><br>
 @ul[text-white](false)
@@ -52,7 +53,7 @@ Algoritmo
 - El orden de complejidad del algoritmo es entonces de O(n²). 
 - Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenada y principalmente depende del pivote. (si por ejemplo el algoritmo  toma como pivote siempre el primer elemento del array, y el array que le pasamos está ordenado, siempre va a generar a su izquierda un array vacío).
 @ulend
-@snapend
+@snapend)
 
 ---?image=template/img/bg/Limeade.jpg
 
