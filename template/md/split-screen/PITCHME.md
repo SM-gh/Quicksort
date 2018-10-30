@@ -5,12 +5,12 @@
 Datos Generales
 @snapend
 
-+++?color=linear-gradient(to top, #5433ff, #20bdff, #a5fecb)
++++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 @title[Algoritmos de ordenamiento]
 
-+++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
++++?color=linear-gradient(to top, #5433ff, #20bdff, #a5fecb)
 
-+++?color=linear-gradient(to top, #12c2e9, #c471ed, #f64f59)
++++?color=linear-gradient(to top, #12c2e9, #c471ed, #ff6e7f)
 
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
