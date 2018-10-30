@@ -58,6 +58,6 @@ Ejemplo<br>Código
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1)
 @title[Rferencias]
 
-@snap[east split-screen-heading text-pink span-50]
+@snap[west split-screen-heading text-pink span-50]
 Referencias
 @snapend
