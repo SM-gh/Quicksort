@@ -5,7 +5,7 @@
 Datos Generales
 @snapend
 
-+++?color=linear-gradient(to top, #fc00ff, #00dbde)
++++?color=linear-gradient(to top, #5433ff, #20bdff, #a5fecb)
 @title[Algoritmos de ordenamiento]
 
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
