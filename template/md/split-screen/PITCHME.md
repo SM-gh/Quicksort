@@ -7,12 +7,11 @@ Datos<br>Generales
 
 @snap[east text-white span-65]
 @ul[split-screen-list](false)
-- Algoritmo de ordenación.
+- <p align="right">[Algoritmo de ordenación.](https://gitpitch.com/SM-gh/Quicksort#/1/1)</p>
 - Creado por el científico en computación C.A.R. Hoare.
 - Sigue el pensamiento “divide y vencerás”.
 @ulend
 @snapend
-<p align="right">[Hola](https://gitpitch.com/SM-gh/Quicksort#/1/1)</p>
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 @title[Algoritmos de ordenamiento]
