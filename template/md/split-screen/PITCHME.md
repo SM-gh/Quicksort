@@ -9,11 +9,11 @@ Datos Generales
 @title[Algoritmos de ordenamiento]
 
 @snap[north-west text-white]
-@size[0.7em](<br>**Es uno de los Algoritmos de ordenación**)
+@fa[arrow-right text-white]@size[0.7em](<br>**Es uno de los Algoritmos de ordenación**)
 @snapend
 
 @snap[north text-white span-100]
-@fa[arrow-right text-white]@size[0.6em](<br><br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
+@size[0.6em](<br><br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 @snapend
 
 @snap[west text-white]
