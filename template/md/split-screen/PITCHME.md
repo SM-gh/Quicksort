@@ -23,7 +23,7 @@ Datos<br>Generales
 Algoritmo
 @snapend 
 
-@snap[west text-white span-50]
+### @snap[west text-white span-50]
 @ol[split-screen-list](false)
 - Se elige un elemento de la lista (pivote).
 - Resituar los demás elementos a cada lado del pivote (a un lado mayores y al otro menores) <sup>1</sup>.
