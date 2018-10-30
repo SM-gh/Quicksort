@@ -42,6 +42,7 @@ Algoritmo
 @fa[arrow-right text-white] @color[white](EFICIENCIA) 
 @snapend
 
+@snap[west text-white span-50]
 @ul[split-screen-list](false)
 Depende de la posición en la que termine el pivote elegido:
 -En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño. 
@@ -50,6 +51,7 @@ Depende de la posición en la que termine el pivote elegido:
   -El orden de complejidad del algoritmo es entonces de O(n²). 
   -Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenada y principalmente depende del pivote. (si por ejemplo el algoritmo  toma como pivote siempre el primer elemento del array, y el array que le pasamos está ordenado, siempre va a generar a su izquierda un array vacío)
 @ulend
+@snapend
 
 ---?image=template/img/bg/Limeade.jpg
 
