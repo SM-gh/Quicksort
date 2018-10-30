@@ -11,13 +11,13 @@ Datos Generales
 @snap[west text-white]
 @size[0.6em](Es uno de los Algoritmos de ordenación<br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 
-@size[0.6em](Tipos de ordenamiento:)
+@size[0.6em](<br>Tipos de ordenamiento:)
 @size[0.6em](<br>•Interno: La información cabe en la memoria principal de la computadora.)
 @size[0.6em](<br>•Externo: Es necesario ocupar una memoria secundaria)
 
-@size[0.6em](Clasificación de los algoritmos de ordenamiento:)
-@size[0.6em](<br>•	De inserción: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.<br>-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
-@size[0.6em](<br>•	De intercambio: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.<br>->Ejemplo: Bubble sort y Quicksort.)
+@size[0.6em](<br>Clasificación de los algoritmos de ordenamiento:)
+@size[0.6em](<br>•	De inserción: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
+@size[0.6em](<br>•	De intercambio: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.->Ejemplo: Bubble sort y Quicksort.)
 @snapend
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
