@@ -25,13 +25,17 @@ Datos Generales
 @size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @snapend
 
-+++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
++++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 
 @snap[west text-white]
-@size[0.6em](<br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.->Ejemplo: Bubble sort y Quicksort.)
+@size[0.6em](<br><br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.->Ejemplo: Bubble sort y Quicksort.)
 @size[0.6em](<br>•	De _Selección_: En estos se selecciona el elemento mínimo o el máximo de todo el conjunto y se coloca en posición apropiada; esto se realiza con todos los elementos restantes)
 @size[0.6em](<br>•	De _numeración_: Para estos se compara cada elemento con todos los demás y se determina cuántos son menores que él, así la información del conteo indicará su posición de ordenamiento.)
+@snapend
 
++++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
+
+@snap[west text-white]
 @size[0.6em](<br>Otras clasificaciones:)
 @size[0.6em](<br>•	Métodos _iterativos_ vs **_Métodos recursivos_**:)
 @size[0.6em](<br>•	De ordenación _natural_ vs _No natural_.)
