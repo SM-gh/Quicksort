@@ -25,12 +25,17 @@ Algoritmo
 
 @snap[west text-white span-50]
 @ol[split-screen-list](false)
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+- Se elige un elemento de la lista (pivote)
+- Resituar los demás elementos a cada lado del pivote (a un lado mayores y al otro menores *1
+- Repetir recursivamente para cada sublista *2
 - adsa
 - lsda
 @olend
+@snapend
+
+@snap[south-west template-note text-white]
+*1 La  orientación de todos los elementos y de los iguales al pivote dependen de la  implementación deseada.
+*2 Debe  de contener mas de un elemento.
 @snapend
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
