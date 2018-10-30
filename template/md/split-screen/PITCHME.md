@@ -124,7 +124,7 @@ Ejemplo Código
 
 +++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
 <p align="center">
-  <img width="800" height="500" src="https://github.com/SM-gh/Quicksort/issues/1">
+  <img width="1000" height="800" src="https://github.com/SM-gh/Quicksort/issues/1">
 </p>
 
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
