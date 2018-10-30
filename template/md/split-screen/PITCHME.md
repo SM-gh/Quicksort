@@ -32,7 +32,7 @@ Algoritmo
 <sup>2</sup> Debe  de contener mas de un elemento.
 @snapend
 
-+++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
++++?color=linear-gradient(to top, #40e0d0, #ff8c00, #ff0080)
 @title[Eficiencia]
 
 @snap[north]
