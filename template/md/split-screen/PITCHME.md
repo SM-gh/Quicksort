@@ -11,6 +11,7 @@ Datos Generales
 Es uno de los Algoritmos de ordenación
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
+
 ### @color[#ffff](Creado por el britáino científico en computación Charles Antony Richard Hoare)
 
 <p align="center">
