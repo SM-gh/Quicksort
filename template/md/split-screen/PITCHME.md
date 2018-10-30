@@ -14,7 +14,7 @@ Es uno de los Algoritmos de ordenación
 ### @color[#ffff](Creado por el britáino científico en computación Charles Antony Richard Hoare)
 
 <p align="center">
-  <img width="300" height="350" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
+  <img width="280" height="350" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
 
 +++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
