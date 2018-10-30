@@ -56,15 +56,16 @@ Datos Generales
 @snapend
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
-
+@snap[south text-white span-100]
 @fa[arrow-right text-white]@size[1.0em](@color[white](**Creado por el britáino científico en computación<br>Charles Antony Richard Hoare**))
+@snapend
 
 <p align="center">
   <img width="270" height="370" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
 
 @snap[south text-white span-100]
-@size[1.0em](Sigue el pensamiento “divide y vencerás”)
+@size[0.7em](Sigue el pensamiento: “divide y vencerás”)
 @snapend
 
 +++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
