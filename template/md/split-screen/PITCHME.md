@@ -123,81 +123,10 @@ Ejemplo Código
 @snapend
 
 +++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
+<p align="center">
+  <img width="800" height="500" src="https://github.com/SM-gh/Quicksort/issues/1">
+</p>
 
-```
-01 #include <stdio.h>
-02
-03  void qs(int lista[],int limite_izq,int limite_der)
-04  {
-05  int izq,der,temporal,pivote;
-06
-07  izq=limite_izq;
-08  der = limite_der;
-09  pivote = lista[(izq+der)/2];
-10                                                                                            
-11  do{
-12     while(lista[izq]<pivote && izq<limite_der)izq++;
-13     while(pivote<lista[der] && der > limite_izq)der--;
-```
-+++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
-```
-14     if(izq <=der)
-15      {
-16          temporal= lista[izq];
-17          lista[izq]=lista[der];
-18          lista[der]=temporal;
-19          izq++;
-20          der--;
-21
-22      }
-23
-24  }while(izq<=der);
-25  if(limite_izq<der){qs(lista,limite_izq,der);}  
-26  if(limite_der>izq){qs(lista,izq,limite_der);}
-```
-+++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
-```
-27
-28  }
-29
-30  void quicksort(int lista[],int n)
-31  {
-32  qs(lista,0,n-1);
-33  }
-34
-35  int main(int argc, const char * argv[])
-36  {
-37
-38  int lista[] ={100,56,0,1,-45,2,46,5,9,6,67,23,5};
-```
-+++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
-```
-39  int size = sizeof(lista)/sizeof(int);
-40
-41  printf("Lista Desordenada \n");
-42
-43  for (int i=0; i<size; i++) {
-44      printf("%d",lista[i]);
-45      if(i<size-1)
-46          printf(",");
-47  }
-48
-49  printf("\n");
-50  quicksort(lista,size);
-51
-```
-+++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
-```
-52  printf("Lista Ordenada \n");
-53  for (int i=0; i<size; i++) {
-54      printf("%d",lista[i]);
-55      if(i<size-1)
-56      printf(",");
-57  }
-58
-59  return 0;
-60  }
-```
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
 @title[Rferencias]
 
