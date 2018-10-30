@@ -97,7 +97,7 @@ Algoritmo
 @title[Eficiencia]
 
 @snap[north]
-@fa[arrow-right text-white]@color[white](**EFICIENCIA**)
+@fa[arrow-right text-white]@color[white](**EFICIENCIA[*](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)**)
 @snapend
 
 @snap[north-east]
