@@ -35,7 +35,7 @@ Datos Generales
 @size[0.6em](<br><br><br>-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @snapend
 @snap[west text-white]
-@size[0.6em](<br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.<br>)
+@size[0.6em](<br><br><br>•De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.<br>)
 @snapend
 @snap[south text-white span-100]
 @size[0.6em](<br><br><br><br>->Ejemplo: Bubble sort y Quicksort.)
