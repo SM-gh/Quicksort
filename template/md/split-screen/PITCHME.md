@@ -79,7 +79,7 @@ Datos Generales
 Algoritmo
 <br>
 <p align="center">
-  <img width="270" height="370" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Lomuto_animated.gif">
+  <img width="350" height="300" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Lomuto_animated.gif">
 </p>
 @snapend 
 
