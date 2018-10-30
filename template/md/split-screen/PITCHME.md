@@ -140,5 +140,5 @@ Referencias
 @snapend
 
 @snap[east]
-[1](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)
+[Quicksort-Animaciones](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)
 @snapend
