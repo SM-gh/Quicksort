@@ -7,9 +7,9 @@ Datos<br>Generales
 
 @snap[east text-white span-65]
 @ul[split-screen-list](false)
-- Algoritmo de ordenación
-- Creado por el científico en computación CAR Hoare
-- Sigue el pensamiento “divide y vencerás”
+- Algoritmo de ordenación.
+- Creado por el científico en computación C.A.R. Hoare.
+- Sigue el pensamiento “divide y vencerás”.
 @ulend
 @snapend
 
@@ -43,13 +43,13 @@ Algoritmo
 @snapend
 
 @snap[text-white span-70]
-@ul[split-screen-list](false)
+@ul[list](false)
 Depende de la posición en la que termine el pivote elegido:
--En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño. 
-  -El orden de complejidad del algoritmo es O(n·log n).
--En el PEOR CASO, el pivote termina EN UN EXTREMO de la lista.
-  -El orden de complejidad del algoritmo es entonces de O(n²). 
-  -Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenada y principalmente depende del pivote. (si por ejemplo el algoritmo  toma como pivote siempre el primer elemento del array, y el array que le pasamos está ordenado, siempre va a generar a su izquierda un array vacío)
+- En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño. 
+  - El orden de complejidad del algoritmo es O(n·log n).
+- En el PEOR CASO, el pivote termina EN UN EXTREMO de la lista.
+  - El orden de complejidad del algoritmo es entonces de O(n²). 
+  - Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenada y principalmente depende del pivote. (si por ejemplo el algoritmo  toma como pivote siempre el primer elemento del array, y el array que le pasamos está ordenado, siempre va a generar a su izquierda un array vacío)
 @ulend
 @snapend
 
