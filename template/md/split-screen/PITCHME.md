@@ -52,7 +52,7 @@ Algoritmo
 @ulend
 @snapend
 
-@snap[north-west]
+@snap[west]
 •	El orden de complejidad del algoritmo es entonces de O(n²).<br>
   o	Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas 
 @snapend
