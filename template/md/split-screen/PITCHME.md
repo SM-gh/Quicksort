@@ -40,7 +40,6 @@ Algoritmo
 
 @snap[north-west]
 @fa[arrow-right text-white] @color[white](EFICIENCIA)
-<br><br><br><br>
 @snapend
 
 @snap[west list-content-verbose span-120]
