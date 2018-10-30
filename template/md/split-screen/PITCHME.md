@@ -12,6 +12,7 @@ Datos<br>Generales
 - Sigue el pensamiento “divide y vencerás”.
 @ulend
 @snapend
+<p align="right">[Index](#index)</p>
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 @title[Algoritmos de ordenamiento]
