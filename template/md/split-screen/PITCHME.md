@@ -63,9 +63,11 @@ Datos Generales
   <img width="270" height="370" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
 
-+++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
-
+@snap[south]
 Sigue el pensamiento “divide y vencerás”
+@snapend
+
++++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
 
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
