@@ -49,9 +49,11 @@ Datos Generales
 @size[0.6em](<br>•	_Estables_ vs **_Inestables_**)
 @snapend
 
+@snap[south-east]
 <p align="center">
   <img width="700" height="400" src="https://pythonizame.s3.amazonaws.com/media/uploads/2015/11/04/fq0a8hx.gif">
 </p>
+@snapend
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 
