@@ -27,7 +27,7 @@ Datos Generales
 
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 
-@snap[text-white span-100]
+@snap[north text-white span-100]
 @size[0.6em](<br><br>-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @snapend
 
