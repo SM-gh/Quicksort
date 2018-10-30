@@ -12,7 +12,7 @@ Datos<br>Generales
 - Sigue el pensamiento “divide y vencerás”.
 @ulend
 @snapend
-<p align="right">[Index](3)</p>
+<p align="right">[Index](https://gitpitch.com/SM-gh/Quicksort#/)</p>
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 @title[Algoritmos de ordenamiento]
