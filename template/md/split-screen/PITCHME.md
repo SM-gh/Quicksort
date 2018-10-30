@@ -59,7 +59,6 @@ Datos Generales
 
 @snap[north text-white span-100]
 @fa[arrow-right text-white]@size[1.0em](@color[white](**Creado por el britáino científico en computación<br>Charles Antony Richard Hoare**))
-
 @snapend
 
 <p align="center">
@@ -78,7 +77,7 @@ Datos Generales
 @snap[east split-screen-heading text-orange span-50]
 Algoritmo
 <br>
-<p align="center">
+<p align="left
   <img width="350" height="300" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Lomuto_animated.gif">
 </p>
 @snapend 
