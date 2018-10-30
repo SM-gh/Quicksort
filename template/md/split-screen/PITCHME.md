@@ -56,6 +56,8 @@ Algoritmo
 Ejemplo Código
 @snapend
 
++++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
+
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
 @title[Código]
 
