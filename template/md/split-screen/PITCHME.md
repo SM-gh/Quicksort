@@ -137,7 +137,7 @@ Ejemplo Código
 </p>
 @snapend
 
-@snap[south-west template-note]
+@snap[south template-note]
 [Página-Código](http://csharp-facilito.blogspot.com/2013/07/metodo-de-ordenamiento-quick-sort-en-c-sharp.html)
 @snapend
 
