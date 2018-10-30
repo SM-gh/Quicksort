@@ -139,6 +139,12 @@ Ejemplo Código
 Referencias
 @snapend
 
-@snap[east]
+@snap[north-east]
+Quicksort:
 [Quicksort-Animaciones](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)
+Algoritmos de ordenamiento:
+[Manual de prácticas UNAM](http://odin.fi-b.unam.mx/salac/practicasEDAII/MADO-20_EDAII.pdf)
+Github+GitPitch:
+[Generalidades GitPitch](https://gitpitch.com/docs)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 @snapend
