@@ -10,6 +10,8 @@ Datos Generales
 
 +++?color=linear-gradient(to bottom, #fc00ff, #00dbde)
 
++++?color=linear-gradient(to top, #12c2e9, #c471ed, #f64f59)
+
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
 
