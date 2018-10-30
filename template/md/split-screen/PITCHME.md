@@ -53,7 +53,7 @@ Algoritmo
 @snapend
 
 @snap[north-west]
-•	El orden de complejidad del algoritmo es entonces de O(n²).
+•	El orden de complejidad del algoritmo es entonces de O(n²).<br>
   o	Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas 
 @snapend
 
