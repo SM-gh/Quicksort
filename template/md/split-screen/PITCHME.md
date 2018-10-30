@@ -100,6 +100,12 @@ Algoritmo
 @fa[arrow-right text-white]@color[white](**EFICIENCIA**)
 @snapend
 
+@snap[north-east]
+<p align="right">
+  <img width="250" height="150" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif">
+</p>
+@snapend
+
 @snap[north-west text-white]
 <br><br>
 @size[0.6em](Depende de la posición en la que termine el pivote elegido:)<br>
