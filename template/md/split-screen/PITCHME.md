@@ -39,7 +39,7 @@ Algoritmo
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
 @snap[north-west]
-@fa[arrow-right text-white] @color[white](EFICIENCIAbr><br><br>
+@fa[arrow-right text-white] @color[white](EFICIENCIA)
 @snapend
 
 @snap[west text-white]
