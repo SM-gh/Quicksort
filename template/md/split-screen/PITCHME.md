@@ -14,9 +14,9 @@ Datos<br>Generales
 @snapend
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
+@title[Algoritmos de ordenamiento]
 
 ---?image=template/img/bg/SunOnTheHorizon.jpg
-
 @title[Algoritmo]
 
 @snap[east split-screen-heading text-orange span-50]
@@ -37,6 +37,7 @@ Algoritmo
 @snapend
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
+@title[Eficiencia]
 
 @snap[north]
 @fa[arrow-right text-white]@color[white](EFICIENCIA)
@@ -53,14 +54,17 @@ Algoritmo
 @snapend
 
 ---?image=template/img/bg/Limeade.jpg
+@title[Código ejemplo]
 
 @snap[west split-screen-heading text-green span-50]
 Ejemplo<br>Código
 @snapend
 
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
+@title[Código]
 
 ---?image=template/img/bg/Piglet.jpg&position
+@title[DRferencias]
 
 @snap[east split-screen-heading text-pink span-50]
 Referencias
