@@ -29,6 +29,7 @@ Datos Generales
 
 @snap[north text-white span-100]
 @size[0.6em](<br><br><br>-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
+@size[0.6em](<br><br><br><br><br><br>->Ejemplo: Bubble sort y Quicksort.)
 @snapend
 
 @snap[west text-white]
