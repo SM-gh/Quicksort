@@ -8,6 +8,8 @@ Datos Generales
 +++?color=linear-gradient(to top, #5433ff, #20bdff, #a5fecb)
 @title[Algoritmos de ordenamiento]
 
++++?color=linear-gradient(to bottom, #fc00ff, #00dbde)
+
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
 
