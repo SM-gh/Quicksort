@@ -124,20 +124,23 @@ Ejemplo Código
 
 +++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
 
-```ruby
+```
 01 #include <stdio.h>
 02
-03void qs(int lista[],int limite_izq,int limite_der)
-04{
-05 int izq,der,temporal,pivote;
+03  void qs(int lista[],int limite_izq,int limite_der)
+04  {
+05  int izq,der,temporal,pivote;
 06
 07  izq=limite_izq;
 08  der = limite_der;
 09  pivote = lista[(izq+der)/2];
 10                                                                                            
-11do{
+11  do{
 12     while(lista[izq]<pivote && izq<limite_der)izq++;
 13     while(pivote<lista[der] && der > limite_izq)der--;
+```
++++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
+```
 14     if(izq <=der)
 15      {
 16          temporal= lista[izq];
@@ -149,7 +152,11 @@ Ejemplo Código
 22      }
 23
 24  }while(izq<=der);
-25  if(limite_izq<der){qs(l  if(limite_der>izq){qs(lista,izq,limite_der);}
+25  if(limite_izq<der){qs(lista,limite_izq,der);}  
+26  if(limite_der>izq){qs(lista,izq,limite_der);}
+```
++++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
+```
 27
 28  }
 29
@@ -162,6 +169,9 @@ Ejemplo Código
 36  {
 37
 38  int lista[] ={100,56,0,1,-45,2,46,5,9,6,67,23,5};
+```
++++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
+```
 39  int size = sizeof(lista)/sizeof(int);
 40
 41  printf("Lista Desordenada \n");
@@ -175,6 +185,9 @@ Ejemplo Código
 49  printf("\n");
 50  quicksort(lista,size);
 51
+```
++++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
+```
 52  printf("Lista Ordenada \n");
 53  for (int i=0; i<size; i++) {
 54      printf("%d",lista[i]);
@@ -184,7 +197,6 @@ Ejemplo Código
 58
 59  return 0;
 60  }
-
 ```
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
 @title[Rferencias]
