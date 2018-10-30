@@ -6,11 +6,11 @@ Datos<br>Generales
 @snapend
 
 @snap[east text-white span-65]
-@ol[split-screen-list](false)
+@ul[split-screen-list](false)
 - Algoritmo de ordenación.
 - Creado por el científico en computación C.A.R. Hoare.
 - Sigue el pensamiento “divide y vencerás”.
-@olend
+@ulend
 @snapend
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
@@ -64,7 +64,7 @@ Ejemplo<br>Código
 @title[Código]
 
 ---?image=template/img/bg/Piglet.jpg&position
-@title[DRferencias]
+@title[Rferencias]
 
 @snap[east split-screen-heading text-pink span-50]
 Referencias
