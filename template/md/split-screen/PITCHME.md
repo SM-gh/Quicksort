@@ -1,4 +1,4 @@
----?color=linear-gradient(to top, #2980b9, #6dd5fa, #ffffff)
+---?color=linear-gradient(to top, #83a4d4, #b6fbff)
 @title[Datos Generales]
 
 @snap[split-screen-heading text-blue span-100]
