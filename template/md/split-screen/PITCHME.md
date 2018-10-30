@@ -138,3 +138,7 @@ Ejemplo Código
 @snap[west split-screen-heading text-pink span-50]
 Referencias
 @snapend
+
+@snap[east]
+[1](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)
+@snapend
