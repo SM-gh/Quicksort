@@ -26,8 +26,8 @@ Algoritmo
 @snap[west text-white span-50]
 @ol[split-screen-list](false)
 - Se elige un elemento de la lista (pivote)
-- Resituar los demás elementos a cada lado del pivote (a un lado mayores y al otro menores) <sup>1</sup>
-- Repetir recursivamente para cada sublista <sup>2</sup>
+- Resituar los demás elementos a cada lado del pivote (a un lado mayores y al otro menores) <sup>1</sup>.
+- Repetir recursivamente para cada sublista <sup>2</sup>.
 @olend
 @snapend
 
@@ -37,6 +37,8 @@ Algoritmo
 @snapend
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
+
+@fa[arrow-right text-white]EFICIENCIA
 
 ---?image=template/img/bg/Limeade.jpg
 
