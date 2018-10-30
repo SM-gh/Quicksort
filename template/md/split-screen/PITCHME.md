@@ -43,7 +43,7 @@ Algoritmo
 @snapend
 <br>
 @snap[west list-content-verbose span-120]
-<br><br><br>
+<br><br>
 @ul[text-white](false)
 <br>
 @size[0.8em](Depende de la posición en la que termine el pivote elegido:)
