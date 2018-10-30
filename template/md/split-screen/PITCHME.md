@@ -57,7 +57,7 @@ Datos Generales
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 
-@size[0.8em](@color[white](Creado por el britáino científico en computación<br>Charles Antony Richard Hoare))
+@size[3.0em](@color[white](Creado por el britáino científico en computación<br>Charles Antony Richard Hoare))
 
 <p align="center">
   <img width="270" height="370" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
