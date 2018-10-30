@@ -28,14 +28,14 @@ Datos Generales
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 
 @snap[west text-white]
-@size[0.6em](<br>•	De _numeración_: Para estos se compara cada elemento con todos los demás y se determina cuántos son menores que él, así la información del conteo indicará su posición de ordenamiento.)
-@size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.)
+@size[0.6em](<br>•	De _numeración_: Para estos se compara cada elemento con todos los demás y se determina cuántos son menores que él, así la información del conteo indicará su posición de ordenamiento.<br>)
+@size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.<br>)
 @snapend
 @snap[south text-white span-100]
 @size[0.6em](<br><br><br>-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @snapend
 @snap[west text-white]
-@size[0.6em](<br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.)
+@size[0.6em](<br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.<br>)
 @snapend
 @snap[south text-white span-100]
 @size[0.6em](<br><br><br><br>->Ejemplo: Bubble sort y Quicksort.)
