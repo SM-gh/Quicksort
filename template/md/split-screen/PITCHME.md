@@ -8,7 +8,7 @@ Datos Generales
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 @title[Algoritmos de ordenamiento]
 
-+++?color=linear-gradient(to top, #5433ff, #20bdff, #a5fecb)
++++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 
 +++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
 
