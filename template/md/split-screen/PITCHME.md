@@ -12,10 +12,10 @@ Es uno de los Algoritmos de ordenación
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 
- ##### @color[#ffff](Creado por el britáino científico en computación<br>Charles Antony Richard Hoare)
+ #### @color[#ffff](Creado por el britáino científico en computación<br>Charles Antony Richard Hoare)
 
 <p align="center">
-  <img width="280" height="350" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
+  <img width="270" height="370" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
 
 +++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
