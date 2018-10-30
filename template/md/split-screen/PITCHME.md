@@ -23,6 +23,8 @@ Datos<br>Generales
 Algoritmo
 @snapend
 
+nkndn[^1]
+
 @snap[west text-white span-50]
 @ol[split-screen-list](false)
 - Se elige un elemento de la lista (pivote)
@@ -30,6 +32,8 @@ Algoritmo
 - Repetir recursivamente para cada sublista [^nota2]
 @olend
 @snapend
+
+[^1]: kjlkj
 
 @snap[south-west template-note text-white]
 [^nota1]: La  orientación de todos los elementos y de los iguales al pivote dependen de la  implementación deseada.<br>
