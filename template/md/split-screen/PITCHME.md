@@ -11,16 +11,16 @@ Datos Generales
 @snap[north-west text-white]
 @size[0.7em](<br>Es uno de los Algoritmos de ordenación)
 @snapend
-
+<br>
 @snap[north text-white span-100]
 @size[0.6em](<br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 @snapend
-
+<br>
 @snap[west text-white]
 @size[0.6em](<br>**Tipos de ordenamiento:**)
 @size[0.6em](<br>•**_Interno_**: La información cabe en la memoria principal de la computadora.)
 @size[0.6em](<br>•_Externo_: Es necesario ocupar una memoria secundaria)
-<br>
+<br><br>
 @size[0.6em](<br>**Clasificación de los algoritmos de ordenamiento:**)
 @size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @snapend
