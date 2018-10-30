@@ -1,5 +1,5 @@
 ---?color=linear-gradient(to top, #6dd5fa, #ffffff)
-@title[Datos Generales]
+@title[DatosGenerales]
 
 @snap[split-screen-heading text-blue span-100]
 Datos Generales
