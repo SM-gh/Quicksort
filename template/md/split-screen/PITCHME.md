@@ -69,8 +69,6 @@ Datos Generales
 @size[0.7em](Sigue el pensamiento: “divide y vencerás”)
 @snapend
 
-+++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
-
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
 
@@ -132,13 +130,13 @@ Ejemplo Código
 
 +++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
 @snap[north]
-<p align="center">
+<p align="up">
   <img width="450" height="600" src="https://user-images.githubusercontent.com/38449287/47753729-27f1e180-dc5e-11e8-9fcb-66194583b6e1.JPG">
 </p>
 @snapend
 
 @snap[south template-note]
-[Página-Código](http://csharp-facilito.blogspot.com/2013/07/metodo-de-ordenamiento-quick-sort-en-c-sharp.html)
+[Enlace: Página-Código](http://csharp-facilito.blogspot.com/2013/07/metodo-de-ordenamiento-quick-sort-en-c-sharp.html)
 @snapend
 
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
