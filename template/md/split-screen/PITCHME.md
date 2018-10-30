@@ -1,22 +1,14 @@
----?image=template/img/bg/CoolSky.jpg&position=right&size=100%
+---?color=linear-gradient(to top, #2980b9, #6dd5fa, #ffffff)
 @title[Datos Generales]
 
-@snap[west split-screen-heading text-blue span-50]
+@snap[split-screen-heading text-blue span-50]
 Datos<br>Generales
-@snapend
-
-@snap[east text-white span-65]
-@ul[split-screen-list](false)
-- <p align="left">[Algoritmo de ordenación.](https://gitpitch.com/SM-gh/Quicksort#/1/1)</p>
-- Creado por el científico en computación C.A.R. Hoare.
-- Sigue el pensamiento “divide y vencerás”.
-@ulend
 @snapend
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
 @title[Algoritmos de ordenamiento]
 
----?image=template/img/bg/SunOnTheHorizon.jpg
+---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
 
 @snap[east split-screen-heading text-orange span-50]
@@ -53,17 +45,17 @@ Algoritmo
 <sup>1</sup> Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenadas y principalmente depende del pivote.<br>
 @snapend
 
----?image=template/img/bg/Limeade.jpg
+---?color=linear-gradient(to top, #a1ffce, #faffd1)
 @title[Código ejemplo]
 
-@snap[west split-screen-heading text-green span-50]
+@snap[split-screen-heading text-green span-50]
 Ejemplo<br>Código
 @snapend
 
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
 @title[Código]
 
----?image=template/img/bg/Piglet.jpg&position
+---?color=linear-gradient(to left, #ee9ca7, #ffdde1)
 @title[Rferencias]
 
 @snap[east split-screen-heading text-pink span-50]
