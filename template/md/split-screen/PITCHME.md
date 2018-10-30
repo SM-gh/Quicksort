@@ -130,7 +130,7 @@ Ejemplo Código
 
 +++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
 @snap[north]
-<p align="up">
+<p align="top">
   <img width="450" height="600" src="https://user-images.githubusercontent.com/38449287/47753729-27f1e180-dc5e-11e8-9fcb-66194583b6e1.JPG">
 </p>
 @snapend
