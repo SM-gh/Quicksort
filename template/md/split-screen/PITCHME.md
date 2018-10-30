@@ -10,7 +10,7 @@ Datos Generales
 
 +++?color=linear-gradient(to top, #5433ff, #20bdff, #a5fecb)
 
-+++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7)
++++?color=linear-gradient(to bottom, #12c2e9, #c471ed, #ee9ca7)
 
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
@@ -32,7 +32,7 @@ Algoritmo
 <sup>2</sup> Debe  de contener mas de un elemento.
 @snapend
 
-+++?color=linear-gradient(to top, #40e0d0, #ff8c00, #ff0080)
++++?color=linear-gradient(to bottom, #ff4e50, #f9d423, #ffff)
 @title[Eficiencia]
 
 @snap[north]
