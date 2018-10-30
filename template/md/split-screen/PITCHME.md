@@ -23,7 +23,7 @@ Datos<br>Generales
 Algoritmo
 @snapend
 
-^1^
+j^1^
 
 @snap[west text-white span-50]
 @ol[split-screen-list](false)
