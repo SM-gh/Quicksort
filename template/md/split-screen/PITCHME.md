@@ -38,9 +38,11 @@ Algoritmo
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
-@fa[north-west arrow-right text-white]
+@snap[south-west]
+@fa[arrow-right text-white]
 @snap[north-west text-white span-50]
 EFICIENCIA
+@snapend
 @snapend
 
 ---?image=template/img/bg/Limeade.jpg
