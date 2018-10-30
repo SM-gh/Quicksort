@@ -56,8 +56,10 @@ Datos Generales
 @snapend
 
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
-@snap[south text-white span-100]
+
+@snap[north text-white span-100]
 @fa[arrow-right text-white]@size[1.0em](@color[white](**Creado por el britáino científico en computación<br>Charles Antony Richard Hoare**))
+
 @snapend
 
 <p align="center">
