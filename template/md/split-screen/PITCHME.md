@@ -1,5 +1,5 @@
 ---?color=linear-gradient(to top, #6dd5fa, #ffffff)
-@title[DatosGenerales]
+@title[Datos Generales]
 
 @snap[split-screen-heading text-blue span-100]
 Datos Generales
@@ -111,7 +111,6 @@ Algoritmo
 @size[0.6em](Depende de la posición en la que termine el pivote elegido:)<br>
 <br>•@size[0.6em](En el _mejor caso_, termina en el _centro_ de la lista, dividiéndola en dos sublistas de igual tamaño.<br><br>)
 <br>•@size[0.6em](En el _peor caso_, el pivote termina _en un extremo_ de la lista.<sup>1</sup><br>)
-@size[0.6em](<br>[Eficiencia graficamente](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html))
 @snapend
 
 @snap[north-east text-white span-100]
