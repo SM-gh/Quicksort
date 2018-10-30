@@ -17,7 +17,7 @@ Datos Generales
 @snapend
 
 @snap[west text-white]
-@size[0.6em](<br><br><br><br>**Tipos de ordenamiento:**)
+@size[0.6em](<br><br><br>**Tipos de ordenamiento:**)
 @size[0.6em](<br>•**_Interno_**: La información cabe en la memoria principal de la computadora.)
 @size[0.6em](<br>•_Externo_: Es necesario ocupar una memoria secundaria)
 <br>
