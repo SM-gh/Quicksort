@@ -20,7 +20,7 @@ Datos Generales
 @size[0.6em](<br>**Tipos de ordenamiento:**)
 @size[0.6em](<br>•**_Interno_**: La información cabe en la memoria principal de la computadora.)
 @size[0.6em](<br>•_Externo_: Es necesario ocupar una memoria secundaria)
-
+<br>
 @size[0.6em](<br>**Clasificación de los algoritmos de ordenamiento:**)
 @size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @snapend
