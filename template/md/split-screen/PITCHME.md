@@ -1,8 +1,8 @@
 ---?color=linear-gradient(to top, #2980b9, #6dd5fa, #ffffff)
 @title[Datos Generales]
 
-@snap[split-screen-heading text-blue span-50]
-Datos<br>Generales
+@snap[split-screen-heading text-blue span-100]
+Datos Generales
 @snapend
 
 +++?color=linear-gradient(to top, #fc00ff, #00dbde)
@@ -48,8 +48,8 @@ Algoritmo
 ---?color=linear-gradient(to top, #a1ffce, #faffd1)
 @title[Código ejemplo]
 
-@snap[split-screen-heading text-green span-50]
-Ejemplo<br>Código
+@snap[split-screen-heading text-green span-100]
+Ejemplo Código
 @snapend
 
 +++?color=linear-gradient(to top, #00416a, #799f0c, #ffe000)
