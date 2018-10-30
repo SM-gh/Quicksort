@@ -116,7 +116,7 @@ Algoritmo
 @snap[north-east text-white span-100]
 @size[0.6em](<br><br><br><br><br><br>-> Orden de complejidad del algoritmo: O(n·log(n)) )
 @size[0.6em](<br><br><br>-> Orden de complejidad del algoritmo: O(n²) )
-<br><br>[Eficiencia graficamente](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html)
+@size[0.6em](<br><br>[Eficiencia graficamente](http://lwh.free.fr/pages/algo/tri/tri_rapide_es.html))
 @snapend
   
 @snap[south-west template-note text-white]
