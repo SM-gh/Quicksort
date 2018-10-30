@@ -51,7 +51,7 @@ Datos Generales
 
 @snap[south-east]
 <p align="center">
-  <img width="500" height="250" src="https://pythonizame.s3.amazonaws.com/media/uploads/2015/11/04/fq0a8hx.gif">
+  <img width="600" height="350" src="https://pythonizame.s3.amazonaws.com/media/uploads/2015/11/04/fq0a8hx.gif">
 </p>
 @snapend
 
