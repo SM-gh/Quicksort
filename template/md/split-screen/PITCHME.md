@@ -41,9 +41,9 @@ Algoritmo
 @snap[north-west]
 @fa[arrow-right text-white] @color[white](EFICIENCIA)<br>
 @snapend
-<br>
-@snap[west list-content-verbose span-120]
 
+@snap[west list-content-verbose span-120]
+<br><br><br>
 @ul[text-white](false)
 <br>
 @size[0.8em](Depende de la posición en la que termine el pivote elegido:)<br>
