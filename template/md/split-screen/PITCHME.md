@@ -39,12 +39,13 @@ Algoritmo
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
 
 @snap[north-west]
-@fa[arrow-right text-white] @color[white](EFICIENCIA)
+@fa[arrow-right text-white] @color[white](EFICIENCIA)<br>
 @snapend
-
+<br>
 @snap[west list-content-verbose span-120]
-<br><br>
+<br><br><br>
 @ul[text-white](false)
+<br>
 @size[0.8em](Depende de la posición en la que termine el pivote elegido:)
 - @size[0.8em](En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño.)
 - @size[0.8em](El orden de complejidad del algoritmo es O(n·log n).)
