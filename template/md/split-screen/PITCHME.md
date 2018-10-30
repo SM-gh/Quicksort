@@ -63,7 +63,7 @@ Datos Generales
   <img width="270" height="370" src="https://github.com/SM-gh/Quicksort/blob/master/template/img/CARHoare.png?raw=true">
 </p>
 
-@snap[south]
+@snap[south text-white span-100]
 Sigue el pensamiento “divide y vencerás”
 @snapend
 
