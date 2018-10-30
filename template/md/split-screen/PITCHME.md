@@ -49,5 +49,5 @@ Ejemplo<br>Código
 ---?image=template/img/bg/Piglet.jpg&position
 
 @snap[east split-screen-heading text-pink span-50]
-Referencias<br>
+Referencias
 @snapend
