@@ -42,9 +42,10 @@ Algoritmo
 @fa[arrow-right text-white] @color[white](EFICIENCIA)<br>
 @snapend
 
+<br><br><br><br>
+
 @snap[west list-content-verbose span-120]
 @ul[text-white](false)
-<br>
 @size[0.8em](Depende de la posición en la que termine el pivote elegido:)<br><br>
 - @size[0.8em](En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño.)
 - @size[0.8em](El orden de complejidad del algoritmo es O(n·log n).)
