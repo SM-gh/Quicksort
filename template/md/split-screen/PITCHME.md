@@ -8,9 +8,19 @@ Datos Generales
 +++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 @title[Algoritmos de ordenamiento]
 
+Es uno de los Algoritmos de ordenación
+
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 
+Creado por el britáino científico en computación Charles Antony Richard Hoare
+
+<p align="center">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</p>
+
 +++?color=linear-gradient(to top, #12c2e9, #c471ed, #ee9ca7, #b2fefa)
+
+Sigue el pensamiento “divide y vencerás”
 
 ---?color=linear-gradient(to left, #fceabb, #f8b500)
 @title[Algoritmo]
