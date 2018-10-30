@@ -23,7 +23,7 @@ Datos<br>Generales
 Algoritmo
 @snapend 
 
-### @snap[west text-white span-50]
+@snap[west text-white span-50]
 @ol[split-screen-list](false)
 - Se elige un elemento de la lista (pivote).
 - Resituar los demás elementos a cada lado del pivote (a un lado mayores y al otro menores) <sup>1</sup>.
@@ -42,16 +42,12 @@ Algoritmo
 @fa[arrow-right text-white] @color[white](EFICIENCIA) 
 @snapend
 
-@snap[text-white span-100]
-@ul[list](false)
 Depende de la posición en la que termine el pivote elegido:
 - En el MEJOR CASO, termina en el CENTRO de la lista, dividiéndola en dos sublistas de igual tamaño. 
   - El orden de complejidad del algoritmo es O(n·log n).
 - En el PEOR CASO, el pivote termina EN UN EXTREMO de la lista.
   - El orden de complejidad del algoritmo es entonces de O(n²). 
   - Depende de la implementación del algoritmo, aunque habitualmente ocurre en listas ordenadas, o casi ordenada y principalmente depende del pivote. (si por ejemplo el algoritmo  toma como pivote siempre el primer elemento del array, y el array que le pasamos está ordenado, siempre va a generar a su izquierda un array vacío)
-@ulend
-@snapend
 
 ---?image=template/img/bg/Limeade.jpg
 
