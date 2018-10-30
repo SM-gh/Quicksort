@@ -29,13 +29,13 @@ Datos Generales
 
 @snap[west text-white]
 @size[0.6em](<br>•	De _numeración_: Para estos se compara cada elemento con todos los demás y se determina cuántos son menores que él, así la información del conteo indicará su posición de ordenamiento.)
-@size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.
+@size[0.6em](<br>•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.)
 @snapend
 @snap[north text-white span-100]
 @size[0.6em](<br>-> Ejemplo: Inserción directa, Shell sort, inserción binaria, hashing.)
 @snapend
 @snap[west text-white]
-@size[0.6em](<br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.
+@size[0.6em](<br>•	De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.)
 @snapend
 @snap[north text-white span-100]
 @size[0.6em](<br>->Ejemplo: Bubble sort y Quicksort.)
