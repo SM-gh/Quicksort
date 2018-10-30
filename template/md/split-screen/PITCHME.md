@@ -50,7 +50,9 @@ Datos Generales
 @size[0.6em](<br>•	_Estables_ vs **_Inestables_**)
 @snapend
 
-+++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
+<p align="left">
+  <img width="600" height="200" src="https://pythonizame.s3.amazonaws.com/media/uploads/2015/11/04/fq0a8hx.gif">
+</p>
 
  #### @color[#ffff](Creado por el britáino científico en computación<br>Charles Antony Richard Hoare)
 
