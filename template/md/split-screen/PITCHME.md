@@ -124,6 +124,11 @@ Ejemplo Código
 
 +++?color=linear-gradient(to bottom, #a8ff78, #78ffd6)
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 ---?color=linear-gradient(to left, #ee9ca7, #ffdde1, #ffff)
 @title[Rferencias]
 
