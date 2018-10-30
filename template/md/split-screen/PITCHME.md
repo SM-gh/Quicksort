@@ -21,21 +21,19 @@ Datos<br>Generales
 
 @snap[east split-screen-heading text-orange span-50]
 Algoritmo
-@snapend
-
-j^1^
+@snapend 
 
 @snap[west text-white span-50]
 @ol[split-screen-list](false)
 - Se elige un elemento de la lista (pivote)
-- Resituar los demás elementos a cada lado del pivote (a un lado mayores y al otro menores) [^nota1]
-- Repetir recursivamente para cada sublista [^nota2]
+- Resituar los demás elementos a cada lado del pivote (a un lado mayores y al otro menores) <sup>1</sup>
+- Repetir recursivamente para cada sublista <sup>2</sup>
 @olend
 @snapend
 
 @snap[south-west template-note text-white]
-[^nota1]: La  orientación de todos los elementos y de los iguales al pivote dependen de la  implementación deseada.<br>
-[^nota2]: Debe  de contener mas de un elemento.
+<sup>1</sup>: La  orientación de todos los elementos y de los iguales al pivote dependen de la  implementación deseada.<br>
+<sup>2</sup>: Debe  de contener mas de un elemento.
 @snapend
 
 +++?color=linear-gradient(to top, #1e9600, #fff200, #ff0000)
