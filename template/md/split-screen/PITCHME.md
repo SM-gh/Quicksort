@@ -32,6 +32,10 @@ Datos Generales
 @size[0.6em](<br><br><br><br>->Ejemplo: Bubble sort y Quicksort.)
 @snapend
 
+<p align="justify">
+  Lorem ipsum
+</p>
+
 @snap[west text-white]
 @size[0.6em](•	De _inserción_: Se considera un elemento a la vez y cada elemento es insertado en la posición apropiada con respecto a los demás que ya han sido ordenados.<br>)
 @size[0.6em](<br>•De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.<br>)
