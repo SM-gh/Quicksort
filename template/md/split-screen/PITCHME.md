@@ -38,7 +38,6 @@ Datos Generales
 @size[0.6em](<br>•De **_intercambio_**: En estos se trabaja en parejas de elementos que se comparan e intercambian si no están en orden adecuado. Termina hasta que ya se hayan revisado todos los elementos.<br>)
 @size[0.6em](<br>•	De _numeración_: Para estos se compara cada elemento con todos los demás y se determina cuántos son menores que él, así la información del conteo indicará su posición de ordenamiento.)
 @snapend
-
 </p>
 
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
@@ -53,6 +52,8 @@ Datos Generales
 <p align="left">
   <img width="600" height="200" src="https://pythonizame.s3.amazonaws.com/media/uploads/2015/11/04/fq0a8hx.gif">
 </p>
+
++++?color=linear-gradient(to top, #ef32d9, #00dbde, #89fffd )
 
  #### @color[#ffff](Creado por el britáino científico en computación<br>Charles Antony Richard Hoare)
 
