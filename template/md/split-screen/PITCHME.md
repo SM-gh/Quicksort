@@ -12,7 +12,7 @@ Datos Generales
 @size[0.7em](Es uno de los Algoritmos de ordenación)
 @snapend
 
-@snap[north text-white]
+@snap[north text-white span-100]
 @size[0.6em](<br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 @snapend
 
