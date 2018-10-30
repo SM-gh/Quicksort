@@ -13,7 +13,7 @@ Datos Generales
 @snapend
 
 @snap[north text-white span-100]
-@size[0.6em](<br><br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
+@fa[arrow-right text-white]@size[0.6em](<br><br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 @snapend
 
 @snap[west text-white]
