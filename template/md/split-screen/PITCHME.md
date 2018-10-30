@@ -42,7 +42,7 @@ Algoritmo
 @fa[arrow-right text-white] @color[white](EFICIENCIA)
 @snapend
 
-@snap[west list-content-verbose span-100]
+@snap[west list-content-verbose span-120]
 <br><br>
 @ul[text-white](false)
 <br>Depende de la posición en la que termine el pivote elegido:<br>
