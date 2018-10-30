@@ -8,7 +8,7 @@ Datos Generales
 +++?color=linear-gradient(to top, #0ed2f7, #20bdff, #a5fecb)
 @title[Algoritmos de ordenamiento]
 
-@snap[north west text-white]
+@snap[north-west text-white]
 @size[0.7em](Es uno de los Algoritmos de ordenación)
 @snapend
 
