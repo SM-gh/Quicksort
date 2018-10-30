@@ -15,7 +15,7 @@ Datos Generales
 @snap[north text-white span-100]
 @size[0.6em](<br>Surgen de la necesidad de recuperar o buscar información de manera eficiente.)
 @snapend
-<br>
+<br><br>
 @snap[west text-white]
 @size[0.6em](<br>**Tipos de ordenamiento:**)
 @size[0.6em](<br>•**_Interno_**: La información cabe en la memoria principal de la computadora.)
