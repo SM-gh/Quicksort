@@ -77,6 +77,10 @@ Datos Generales
 
 @snap[east split-screen-heading text-orange span-50]
 Algoritmo
+<br>
+<p align="center">
+  <img width="270" height="370" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Lomuto_animated.gif">
+</p>
 @snapend 
 
 @snap[west text-white span-50]
