@@ -102,7 +102,7 @@ Algoritmo
 @snap[north-west text-white]
 <br><br>
 @size[0.6em](Depende de la posición en la que termine el pivote elegido:)<br>
-<br>•@size[0.6em](En el _mejor caso_, termina en el _centro_ de la lista, dividiéndola en dos sublistas de igual tamaño.<br>)
+<br>•@size[0.6em](En el _mejor caso_, termina en el _centro_ de la lista, dividiéndola en dos sublistas de igual tamaño.<br><br>)
 <br>•@size[0.6em](En el _peor caso_, el pivote termina _en un extremo_ de la lista.<sup>1</sup><br>)
 @snapend
 
